@@ -3,24 +3,23 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <div
-        className="w-full 
-					   flex justify-center
-					   bg-[url('../public/assets/images/home/homeback.png')] 
-					   sm:bg-cover sm:bg-no-repeat bg-center"
-      >
+      <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
         <div className="relative box-border mx-auto my-10 border-solid border-2 border-black rounded-t-2xl">
+          {/* Floating images start */}
           <img
             src="/assets/images/home/element.png"
-            className="-z-1 block absolute object-contain z-2 top-50 -left-60"
+            className="-z-1 block absolute object-contain z-2 top-[50%] -left-[35%]"
             alt=""
           />
           <img
             src="/assets/images/home/2.png"
-            className=" -z-1 block left-[18rem] top-[4rem] absolute object-contain z-2 top-100 left-120"
+            className=" -z-1 block absolute object-contain z-2 top-[10%] -right-[30%]"
             alt=""
           />
-          <div className="flex flex-row justify-between items-center py-8 bg-brightOlive rounded-t-2xl h-10 px-2">
+          {/* Floating images end */}
+
+          {/* Header start */}
+          <div className="flex flex-row justify-between items-center bg-brightOlive rounded-t-2xl px-2">
             {/* Three Button */}
             <div className="flex items-center justify-center">
               <div className="mx-2 m-0.5 mt-2.5 w-6 h-6 border-solid border-2 border-black rounded-3xl bg-icon1"></div>
@@ -35,12 +34,15 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className="bg-white px-8">
+          {/* Header ens */}
+
+          {/* GFG Body start */}
+          <div className="bg-white px-36">
             <div
               className="flex flex-row max-w-80 p-10 
-										text-9xl text-center font-gothic font-normal tracking-wider ml-40"
+										text-9xl text-center font-gothic font-normal tracking-wider ml-20"
             >
-              GIT
+              <p>GIT</p>
               <img src="/assets/images/home/git.png" alt="" />
             </div>
             <div className="text-7xl text-center font-gothic font-normal tracking-wider mb-20 ">
@@ -80,39 +82,20 @@ const Home = () => {
               </div>
             </div>
 
-            <div className="grid md:grid-cols-2 sm:grid-cols-1 p-5 gap-5 text-center text-bold">
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Murtaza Shikari
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Mahek Jain
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Priyanka Ramachandran
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 4
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 5
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic ">
-                Name 6
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 7
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 8
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 9
-              </div>
-              <div className="name bg-darkOlive border-solid border-2 border-black rounded-full  border-b-8 p-2 font-gothic">
-                Name 10
-              </div>
+            <div className="grid md:grid-cols-2 sm:grid-cols-1 gap-8 py-5 text-center text-bold">
+              <div className="name-pills primary-btn-click">Murtaza Shikari</div>
+              <div className="name-pills primary-btn-click">Mahek Jain</div>
+              <div className="name-pills primary-btn-click">Priyanka Ramachandran</div>
+              <div className="name-pills primary-btn-click">Name 4</div>
+              <div className="name-pills primary-btn-click">Name 5</div>
+              <div className="name-pills primary-btn-click ">Name 6</div>
+              <div className="name-pills primary-btn-click">Name 7</div>
+              <div className="name-pills primary-btn-click">Name 8</div>
+              <div className="name-pills primary-btn-click">Name 9</div>
+              <div className="name-pills primary-btn-click">Name 10</div>
             </div>
           </div>
+          {/* GFG Body end */}
         </div>
       </div>
     </>
