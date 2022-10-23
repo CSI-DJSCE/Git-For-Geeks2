@@ -1,13 +1,16 @@
-import { Home, Profile } from "./pages";
+import { Home, Profile,ErrorPage} from "./pages";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 function App() {
 	return (
 		<>
-			<h1 className="text-red-500 text-2xl text-center border-2 mt-4">
-				Git For Geeks
-			</h1>
-			<Home />
-			<Profile />
+		<Router>
+			<Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="*" element={<ErrorPage />} />
+        </Routes>
+		</Router>
 		</>
 	);
 }
