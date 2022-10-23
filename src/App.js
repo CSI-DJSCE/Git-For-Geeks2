@@ -1,6 +1,5 @@
-import { Home, Profile } from "./pages";
+import { Home, Profile,ErrorPage} from "./pages";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import ErrorPage from "./pages/ErrorPage.jsx";
 
 function App() {
 	return (
