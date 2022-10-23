@@ -2,6 +2,10 @@
 module.exports = {
 	content: ["./src/**/*.{js,jsx,ts,tsx}"],
 	theme: {
+		fontFamily:{
+			'gothic' : ['Franklin Gothic Heavy']
+
+		},
 		maxWidth:{
 			'1/2' : '50%'
 		},
@@ -15,7 +19,10 @@ module.exports = {
 				cream: '#FEF5ED',
 				lilOlive: '#D3E4CD',
 				brightOlive: '#ADC2A9',
-				darkOlive: '#99A799'
+				darkOlive: '#ACC2A8',
+				icon1: '#D1D184',
+				icon2: '#525C52',
+				icon3: '#DBFBB1'
 			}
 		},
 	},
