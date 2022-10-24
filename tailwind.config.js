@@ -38,5 +38,9 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  // eslint-disable-next-line no-undef
+  plugins: [require("tailwind-scrollbar"), require("tailwind-scrollbar-hide")],
+  variants: {
+    scrollbar: ["rounded"],
+  },
 };

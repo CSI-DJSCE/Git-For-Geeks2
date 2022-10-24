@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+body{
+  overflow-y: hidden;
+}
 @layer components {
   .primary-btn {
     @apply max-w-fit mx-auto text-black bg-darkOlive border-3  border-black px-8 py-3 font-gothic rounded-3xl text-xl flex cursor-pointer relative items-center justify-center;
