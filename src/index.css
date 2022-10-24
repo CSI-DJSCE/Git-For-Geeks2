@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .primary-btn {
+    @apply max-w-fit mx-auto text-black bg-darkOlive border-3  border-black px-8 py-3 font-gothic rounded-3xl text-xl flex cursor-pointer relative items-center justify-center;
+    box-shadow: 0 4px 0 0 black;
+  }
+
+  .primary-btn-click:active {
+    top: 3px;
+    box-shadow: none;
+  }
+
+  .name-pills {
+    @apply bg-darkOlive border-solid border-2 border-black rounded-full py-4  px-2 font-gothic relative text-xl;
+    box-shadow: 0 6px 0 0 black;
+  }
+
+}
