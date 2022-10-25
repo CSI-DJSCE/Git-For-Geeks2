@@ -14,6 +14,7 @@ module.exports = {
       },
       fontFamily: {
         gothic: ["Franklin Gothic Medium", "Georgia", "sans-serif"],
+        gothicBold: ["Franklin Gothic Heavy", "Georgia"],
       },
       fontSize: {
         xl: [

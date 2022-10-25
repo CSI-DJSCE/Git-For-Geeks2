@@ -1,12 +1,13 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiFillInstagram, AiOutlineArrowLeft } from "react-icons/ai";
 import { BsGlobe } from "react-icons/bs";
+import { Link } from "react-router-dom";
 const Profile = () => {
   return (
     <div
       className="min-h-screen w-full bg-[url('../public/assets/images/profile/popup_mobile.png')]
 						md:bg-[url('../public/assets/images/profile/popup_bg.jpg')] 
-						bg-cover bg-no-repeat bg-[left_center] flex flex-col justify-center"
+						bg-cover bg-no-repeat bg-[left_center] flex flex-col justify-center items-center"
     >
       <div className="max-w-[22rem] md:max-w-xl w-full mb-9 mx-3 md:mx-auto px-5 md:px-8 py-2 border-3 text-center rounded-3xl border-black bg-white justify-center">
         <div className="primary-btn -mt-10 text-center">Priyanka Ramachandran</div>
@@ -57,9 +58,11 @@ const Profile = () => {
         </div>
       </div>
 
-      <div className="primary-btn primary-btn-click">
-        <AiOutlineArrowLeft className="mr-2" /> BACK
-      </div>
+      <Link to="/">
+        <div className="primary-btn primary-btn-click">
+          <AiOutlineArrowLeft className="mr-2" /> BACK
+        </div>
+      </Link>
     </div>
   );
 };
