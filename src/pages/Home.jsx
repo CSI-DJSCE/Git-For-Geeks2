@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import UsersData from "../data/User";
 
 const Home = () => {
-  console.log(UsersData);
+  // eslint-disable-next-line
   const [userIds, setUserIds] = useState(() => Object.keys(UsersData));
   const [query, setQuery] = useState("");
 
