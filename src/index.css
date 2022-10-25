@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 body{
-  overflow-y: hidden;
+  overflow: hidden;
 }
 @layer components {
   .primary-btn {
@@ -10,7 +10,7 @@ body{
     box-shadow: 0 4px 0 0 black;
   }
 
-  .primary-btn-click:active {
+  .primary-btn-click:hover {
     top: 3px;
     box-shadow: none;
   }

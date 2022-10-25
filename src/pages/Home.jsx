@@ -1,7 +1,11 @@
 import React from "react";
 import { AiOutlineSearch } from "react-icons/ai";
+import { Link } from "react-router-dom";
+import UsersData from "../data/User";
 
 const Home = () => {
+  console.log(UsersData);
+  const userIdArray = Object.keys(UsersData);
   return (
     <>
       <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
@@ -63,7 +67,7 @@ const Home = () => {
 
           {/* GFG Body start */}
           <div className=" scrollbar-thin h-screen md:scrollbar scrollbar-thumb-[#D9D9D9] overflow-y-scroll scrollbar-thumb-rounded-lg scrollbar-track-rounded-full">
-            <div className="bg-white md:px-20 md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
+            <div className="bg-white md:px-20  pb-[20%] md:pb-[15%] md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
               <div
                 className="flex flex-row  justify-center max-w-80 p-10 
 										md:-mb-[1.5rem] text-7xl md:text-9xl text-center font-gothicBold font-normal tracking-[5%] md:ml-[2rem]"
@@ -94,37 +98,18 @@ const Home = () => {
               </div>
 
               <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-4 md:px-12 min-w-[80%] text-center text-bold">
-                <div className="cursor-pointer name-pills hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Murtaza Shikari
-                </div>
-                <div className=" cursor-pointer name-pills  hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Mahek Jain
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Priyanka Ramachandran
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 4
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 5
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click ">
-                  Name 6
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 7
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 8
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 9
-                </div>
-                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                  Name 10
-                </div>
+                {userIdArray.map((userId) => {
+                  const userData = UsersData[userId];
+                  return (
+                    <Link key={userId} to={`/profile/${userId}`}>
+                      <div className="cursor-pointer name-pills  primary-btn-click">
+                        {userData?.name}
+                      </div>
+                    </Link>
+                  );
+                })}
               </div>
+              <p className="text-center text-lg font-gothic">Build with ♥️ by DJCSI Tech Team</p>
             </div>
           </div>
         </div>
