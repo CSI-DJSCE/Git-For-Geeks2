@@ -10,7 +10,7 @@ const Users = {
     },
   },
   "technophile-05": {
-    name: "Shiv Bhonde",
+    name: "Priyanka",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -20,7 +20,7 @@ const Users = {
     },
   },
   "technophile-06": {
-    name: "Shiv Bhonde",
+    name: "Murtuza",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -30,7 +30,7 @@ const Users = {
     },
   },
   "technophile-07": {
-    name: "Shiv Bhonde",
+    name: "Mahek Jain",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -40,7 +40,7 @@ const Users = {
     },
   },
   "technophile-08": {
-    name: "Shiv Bhonde",
+    name: "Jinish Shah",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -50,7 +50,7 @@ const Users = {
     },
   },
   "technophile-09": {
-    name: "Shiv Bhonde",
+    name: "Jhon Doe",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -60,7 +60,7 @@ const Users = {
     },
   },
   "technophile-10": {
-    name: "Shiv Bhonde",
+    name: "Jane Doe",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",
@@ -70,7 +70,57 @@ const Users = {
     },
   },
   "technophile-11": {
-    name: "Shiv Bhonde",
+    name: "Tony Stark",
+    branch: "IT",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-12": {
+    name: "Bruce Wayne",
+    branch: "IT",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-13": {
+    name: "Lionel Messi",
+    branch: "IT",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-14": {
+    name: "Ronaldo ",
+    branch: "IT",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-15": {
+    name: "Sachin Tendulkar",
+    branch: "IT",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-16": {
+    name: "Jackson Doe",
     branch: "IT",
     links: {
       github: "https://github.com/technophile-04",

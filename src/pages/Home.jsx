@@ -1,11 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import UsersData from "../data/User";
 
 const Home = () => {
   console.log(UsersData);
-  const userIdArray = Object.keys(UsersData);
+  const [userIds, setUserIds] = useState(() => Object.keys(UsersData));
+  const [query, setQuery] = useState("");
+
+  const keys = ["name"];
+  const search = (data) => {
+    return data.filter((item) =>
+      keys.some((key) => UsersData[item][key].toLowerCase().includes(query.toLowerCase()))
+    );
+  };
+
   return (
     <>
       <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
@@ -89,6 +98,7 @@ const Home = () => {
                     type="text"
                     className="border-none text-sm md:text-lg font-semibold text-black bg-darkOlive py-2 placeholder-black focus:outline-none md:flex-grow"
                     placeholder="Search your name here"
+                    onChange={(e) => setQuery(e.target.value)}
                   />
                   <AiOutlineSearch
                     size={"2.5rem"}
@@ -98,7 +108,7 @@ const Home = () => {
               </div>
 
               <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-4 md:px-12 min-w-[80%] text-center text-bold">
-                {userIdArray.map((userId) => {
+                {search(userIds).map((userId) => {
                   const userData = UsersData[userId];
                   return (
                     <Link key={userId} to={`/profile/${userId}`}>
