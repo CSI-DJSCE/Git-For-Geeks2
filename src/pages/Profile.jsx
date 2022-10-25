@@ -1,7 +1,16 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiFillInstagram, AiOutlineArrowLeft } from "react-icons/ai";
 import { BsGlobe } from "react-icons/bs";
+import { useParams } from "react-router-dom";
+import UsersData from "../data/User";
+import ErrorPage from "./ErrorPage";
 const Profile = () => {
+  const params = useParams();
+  const { userId } = params;
+  console.log("This is userId", userId);
+  if (UsersData[userId] === undefined) {
+    return <ErrorPage />;
+  }
   return (
     <div
       className="min-h-screen w-full 
@@ -9,9 +18,12 @@ const Profile = () => {
 						bg-cover bg-no-repeat bg-left-bottom bg-fixed flex flex-col justify-center"
     >
       <div className="max-w-xl w-full mb-9 mx-auto px-8 py-3 border-3 rounded-3xl border-black bg-white relative">
-        <div className="primary-btn absolute -top-[10%] left-[33%]">Mahek Jain</div>
+        <div className="primary-btn absolute -top-[10%] left-[33%]">
+          {UsersData[userId]?.name && UsersData[userId].name}
+        </div>
+
         <div className="text-xl text-center text-black font-gothic leading-7 mb-7 mt-5">
-          IT | Technical
+          {UsersData[userId]?.branch && UsersData[userId].branch}
         </div>
 
         <div className="font-normal text-xl text-center text-black font-gothic tracking-wider">

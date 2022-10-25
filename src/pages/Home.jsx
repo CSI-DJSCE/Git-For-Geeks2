@@ -1,6 +1,9 @@
 import React from "react";
 
+import UsersData from "../data/User";
+
 const Home = () => {
+  console.log(UsersData);
   return (
     <>
       <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
@@ -83,7 +86,7 @@ const Home = () => {
             </div>
 
             <div className="grid md:grid-cols-2 sm:grid-cols-1 gap-8 py-5 text-center text-bold">
-              <div className="name-pills primary-btn-click">Murtaza Shikari</div>
+              <div className="name-pills primary-btn-click">Murtaza</div>
               <div className="name-pills primary-btn-click">Mahek Jain</div>
               <div className="name-pills primary-btn-click">Priyanka Ramachandran</div>
               <div className="name-pills primary-btn-click">Name 4</div>
