@@ -4,46 +4,45 @@ import { AiOutlineSearch } from "react-icons/ai";
 const Home = () => {
   return (
     <>
-      <div className="flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
-        <div className="bg-white md:max-w-5xl relative box-border mx-auto my-10 border-solid border-2 border-b-0 lg:border-b-4 border-black rounded-t-2xl w-[24rem] md:w-[60rem]">
+      <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
+        <div className="bg-white md:max-w-5xl relative box-border mx-auto my-10 md:border-solid border-2 border-b-0 lg:border-b-4 border-black rounded-t-2xl w-[90%] md:w-[60rem]">
           {/* Floating images start */}
           <img
             src="/assets/images/home/element.png"
-            className="hidden w-[20rem] -z-1 md:block absolute object-contain z-2 md:top-[60%] md:-left-[22%] "
-            alt=""
+            className="hidden w-[20rem]  md:block absolute object-contain z-[2] md:top-[60%] md:-left-[22%] "
           />
           <img
             src="/assets/images/home/2.png"
-            className="hidden -z-1  absolute object-contain md:block z-2 md:top-[5%] md:-right-[30%]"
+            className="hidden z-[2]  absolute object-contain md:block md:top-[5%] md:-right-[30%]"
             alt=""
           />
           <img
             src="/assets/images/home/STARRR.png"
-            className="hidden -z-1  absolute object-contain md:block z-2  md:top-[70%] md:-right-[15%]"
+            className="hidden  absolute object-contain md:block z-[2]  md:top-[70%] md:-right-[15%]"
             alt=""
           />
 
           <img
             src="/assets/images/home/classroom6.png"
-            className="hidden -z-1  absolute object-contain md:block z-2  md:top-[16.5%] md:-right-[16%]"
+            className="hidden  absolute object-contain md:block z-[2]  md:top-[15%] md:-right-[16%]"
             alt=""
           />
 
           <img
             src="/assets/images/home/image-removebg-preview.png"
-            className="hidden -z-1 w-[20rem]  absolute object-contain md:block md:top-[11%] md:-left-[22%] "
+            className="hidden w-[20rem]  absolute object-contain  md:block md:top-[11%] md:-left-[22%] "
             alt=""
           />
           <img
             src="/assets/images/home/1Nov.png"
-            className="hidden -z-1   absolute z-2 object-contain md:block  md:top-[17%] md:-left-[18%]"
+            className="hidden   absolute z-2 object-contain md:block  md:top-[17%] md:-left-[18%]"
             alt=""
           />
 
           {/* Floating images end */}
 
           {/* Header start */}
-          <div className="flex flex-row justify-between items-center bg-[#D3E4CD]  md:border-solid md:border-2 md:border-black rounded-t-[0.75rem] px-2">
+          <div className="flex flex-row justify-between items-center bg-[#D3E4CD]  border-solid border-b-2 md:border-2 md:border-b-4 border-black rounded-t-[0.75rem] px-2">
             {/* Three Button */}
             <div className="flex items-center justify-center">
               <div className="md:mx-2 m-0.5 mt-2 w-4 h-4 md:w-8 md:h-8 border-solid border-2 md:border-4 md:ml-2 border-black rounded-3xl bg-icon1"></div>
@@ -63,67 +62,71 @@ const Home = () => {
           {/* Header ens */}
 
           {/* GFG Body start */}
-          <div className="bg-white md:px-20 md:border-solid md:border-2 md:border-black md:border-t-4 md:border-b-0">
-            <div
-              className="flex flex-row  justify-center max-w-80 p-10 
+          <div className=" scrollbar-thin h-screen md:scrollbar scrollbar-thumb-[#D9D9D9] overflow-y-scroll scrollbar-thumb-rounded-lg scrollbar-track-rounded-full">
+            <div className="bg-white md:px-20 md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
+              <div
+                className="flex flex-row  justify-center max-w-80 p-10 
 										md:-mb-[1.5rem] text-7xl md:text-9xl text-center font-gothicBold font-normal tracking-[5%] md:ml-[2rem]"
-            >
-              <p>GIT</p>
-              <img
-                src="/assets/images/home/git.png"
-                className="ml-2 h-16 mt-1.5 md:w-auto md:h-auto"
-                alt=""
-              />
-            </div>
-            <div className="text-5xl md:text-7xl text-center font-gothicBold font-normal tracking-[5%] mb-10 md:mb-16 ">
-              FOR GEEKS!
-            </div>
-
-            <div className="flex justify-center items-center pb-6">
-              <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-20 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
-                <input
-                  type="text"
-                  className="  border-none font-bold text-black bg-darkOlive py-2 placeholder-black focus:outline-none "
-                  placeholder="SEARCH YOUR NAME HERE"
+              >
+                <p>GIT</p>
+                <img
+                  src="/assets/images/home/git.png"
+                  className="ml-2 h-16 mt-1.5 md:w-auto md:h-auto"
+                  alt=""
                 />
-                <AiOutlineSearch size={"2.5rem"} className="mt-2 w-6 h-6 md:w-10 md:h-10 md:mt-0" />
               </div>
-            </div>
+              <div className="text-5xl md:text-7xl text-center font-gothicBold font-normal tracking-[5%] mb-10 md:mb-16 ">
+                FOR GEEKS!
+              </div>
 
-            <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-4 md:px-12 min-w-[80%] text-center text-bold">
-              <div className="cursor-pointer name-pills hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Murtaza Shikari
+              <div className="flex justify-center items-center pb-6">
+                <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-20 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
+                  <input
+                    type="text"
+                    className="  border-none font-bold text-black bg-darkOlive py-2 placeholder-black focus:outline-none "
+                    placeholder="SEARCH YOUR NAME HERE"
+                  />
+                  <AiOutlineSearch
+                    size={"2.5rem"}
+                    className="mt-2 w-6 h-6 md:w-10 md:h-10 md:mt-0"
+                  />
+                </div>
               </div>
-              <div className=" cursor-pointer name-pills  hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Mahek Jain
+
+              <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-4 md:px-12 min-w-[80%] text-center text-bold">
+                <div className="cursor-pointer name-pills hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Murtaza Shikari
+                </div>
+                <div className=" cursor-pointer name-pills  hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Mahek Jain
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Priyanka Ramachandran
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 4
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 5
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click ">
+                  Name 6
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 7
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 8
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 9
+                </div>
+                <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
+                  Name 10
+                </div>
               </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Priyanka Ramachandran
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 4
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 5
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click ">
-                Name 6
-              </div>
-              {/* <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 7
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 8
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 9
-              </div>
-              <div className="name-pills cursor-pointer hover:text-[#525C52] hover:font-bold primary-btn-click">
-                Name 10
-              </div> */}
             </div>
           </div>
-          {/* GFG Body end */}
         </div>
       </div>
     </>
