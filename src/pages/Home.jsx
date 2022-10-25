@@ -11,7 +11,7 @@ const Home = () => {
   const keys = ["name"];
   const search = (data) => {
     return data.filter((item) =>
-      keys.some((key) => UsersData[item][key].toLowerCase().includes(query.toLowerCase()))
+      keys.some((key) => UsersData[item][key]?.toLowerCase().includes(query.toLowerCase()))
     );
   };
 
@@ -120,7 +120,7 @@ const Home = () => {
                 })}
               </div>
               <p className="text-center text-lg font-gothic my-6">
-                Build with ♥️ by DJCSI Tech Team
+                Built with ❤️ by DJCSI Tech Team
               </p>
             </div>
           </div>
