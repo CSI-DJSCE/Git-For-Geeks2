@@ -87,8 +87,8 @@ const Home = () => {
                 <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-20 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
                   <input
                     type="text"
-                    className="  border-none font-bold text-black bg-darkOlive py-2 placeholder-black focus:outline-none "
-                    placeholder="SEARCH YOUR NAME HERE"
+                    className="border-none text-sm md:text-lg font-semibold text-black bg-darkOlive py-2 placeholder-black focus:outline-none md:flex-grow"
+                    placeholder="Search your name here"
                   />
                   <AiOutlineSearch
                     size={"2.5rem"}
@@ -109,7 +109,9 @@ const Home = () => {
                   );
                 })}
               </div>
-              <p className="text-center text-lg font-gothic">Build with ♥️ by DJCSI Tech Team</p>
+              <p className="text-center text-lg font-gothic my-6">
+                Build with ♥️ by DJCSI Tech Team
+              </p>
             </div>
           </div>
         </div>
