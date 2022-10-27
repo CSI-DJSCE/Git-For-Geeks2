@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body{
+/* body{
   overflow: hidden;
-}
+} */
 @layer components {
   .primary-btn {
     @apply max-w-fit mx-auto text-black bg-darkOlive border-3  border-black px-8 py-3 font-gothic rounded-3xl text-xl flex cursor-pointer relative items-center justify-center;
@@ -20,6 +26,10 @@ body{
   .name-pills {
     @apply bg-darkOlive border-solid border-2 border-black rounded-full  px-1 py-2 md:py-4  md:px-2 font-gothic relative sm:text-lg md:text-xl;
     box-shadow: 0 6px 0 0 black;
+  }
+
+  .custom-scrollbar { 
+    @apply scrollbar-thin h-screen md:scrollbar scrollbar-thumb-[#D9D9D9] overflow-y-scroll scrollbar-thumb-rounded-lg scrollbar-track-rounded-full
   }
 
 }
