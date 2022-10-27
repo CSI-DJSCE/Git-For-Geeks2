@@ -2,6 +2,7 @@ import React, { useMemo, useRef, useState } from "react";
 import { AiOutlineGithub, AiOutlineSearch } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import UsersData from "../data/User";
+import { motion } from "framer-motion";
 
 const Home = () => {
   const inputRef = useRef(null);
@@ -55,7 +56,10 @@ const Home = () => {
       /> */}
       {/* Floating images end */}
 
-      <div
+      <motion.div
+        initial={{ opacity: 0.5 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
         className="bg-white md:max-w-5xl mx-auto rounded-2xl w-[90%] md:w-[60rem] max-h-[90vh]
         overflow-y-scroll relative scrollbar-thin  md:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full mt-6 border-3 border-black pb-4"
       >
@@ -125,7 +129,7 @@ const Home = () => {
             })}
           </div>
         </div>
-      </div>
+      </motion.div>
       <p className="text-center text-lg font-gothic">Built with ❤️ by DJCSI Tech Team</p>
     </div>
   );
