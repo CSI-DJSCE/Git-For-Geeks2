@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <>
       <div className="w-full flex justify-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center">
-        <div className="bg-white md:max-w-5xl relative box-border mx-auto my-10 md:border-solid border-2 border-b-0 lg:border-b-4 border-black rounded-t-2xl w-[90%] md:w-[60rem]">
+        <div className="bg-white border-b-0 mb-0 pb-0 md:max-w-5xl relative box-border mx-auto my-10 md:border-solid border-2 lg:border-b-4 border-black rounded-t-2xl w-[90%] md:w-[60rem]">
           {/* Floating images start */}
           <img
             src="/assets/images/home/element.png"
@@ -36,7 +36,7 @@ const Home = () => {
           />
 
           <img
-            src="/assets/images/home/classroom6.png"
+            src="/assets/images/home/seminarhall.png"
             className="hidden  absolute object-contain md:block z-[2]  md:top-[15%] md:-right-[16%]"
             alt=""
           />
@@ -47,7 +47,7 @@ const Home = () => {
             alt=""
           />
           <img
-            src="/assets/images/home/1Nov.png"
+            src="/assets/images/home/2nov.png"
             className="hidden   absolute z-2 object-contain md:block  md:top-[17%] md:-left-[18%]"
             alt=""
           />
@@ -79,21 +79,23 @@ const Home = () => {
             <div className="bg-white md:px-20  pb-[20%] md:pb-[15%] md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
               <div
                 className="flex flex-row  justify-center max-w-80 p-10 
-										md:-mb-[1.5rem] text-7xl md:text-9xl text-center font-gothicBold font-normal tracking-[5%] md:ml-[2rem]"
+										 text-4xl md:text-8xl text-center font-gothicBold font-normal tracking-[5%] md:ml-[2rem]"
               >
-                <p>GIT</p>
+                <p className=" tracking-[5%] mr-4 md:mr-8 font-black">GIT</p>
+                <p className="-mr-2 font-black">F</p>
                 <img
                   src="/assets/images/home/git.png"
-                  className="ml-2 h-16 mt-1.5 md:w-auto md:h-auto"
+                  className="ml-2 h-7 mt-1.5 md:w-auto md:h-20 md:mt-2"
                   alt=""
                 />
+                <p className="font-black">R</p>
+                <p className="ml-4 font-black">GEEKS</p>
               </div>
-              <div className="text-5xl md:text-7xl text-center font-gothicBold font-normal tracking-[5%] mb-10 md:mb-16 ">
-                FOR GEEKS!
+              <div className="-mt-8 text-center font-caveat text-2xl mb-8 md:text-7xl md:-mt-4 md:mb-12">
+                Second Commit
               </div>
-
               <div className="flex justify-center items-center pb-6">
-                <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-20 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
+                <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-4 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
                   <input
                     type="text"
                     className="border-none text-sm md:text-lg font-semibold text-black bg-darkOlive py-2 placeholder-black focus:outline-none md:flex-grow"
@@ -107,7 +109,7 @@ const Home = () => {
                 </div>
               </div>
 
-              <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-4 md:px-12 min-w-[80%] text-center text-bold">
+              <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-10 md:px-12 min-w-[80%] text-center text-bold">
                 {search(userIds).map((userId) => {
                   const userData = UsersData[userId];
                   return (
