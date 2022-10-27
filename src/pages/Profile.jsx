@@ -33,7 +33,12 @@ const Profile = () => {
         <div className="flex mt-5 items-center justify-center ">
           {links.github && (
             <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
-              <a href={links.github} className="font-[Candara] font-semibold ">
+              <a
+                href={links.github}
+                target="_blank"
+                className="font-[Candara] font-semibold "
+                rel="noreferrer"
+              >
                 <AiFillGithub
                   className="w-[3.5rem] md:w-[4.5rem] pb-1 ml-1 md:pb-2 text-2xl"
                   size={"4.5rem"}
@@ -44,7 +49,12 @@ const Profile = () => {
           )}
           {links.instagram && (
             <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
-              <a href={links.linkedin} className="font-[Candara] font-semibold ">
+              <a
+                href={links.linkedin}
+                target="_blank"
+                className="font-[Candara] font-semibold "
+                rel="noreferrer"
+              >
                 <AiFillLinkedin
                   className="w-[3.5rem] md:w-[4.5rem] ml-1 pb-1 md:pb-2 text-2xl"
                   size={"4.5rem"}
@@ -55,7 +65,12 @@ const Profile = () => {
           )}
           {links.linkedin && (
             <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
-              <a href={links.instagram} className="font-[Candara] font-semibold">
+              <a
+                href={links.instagram}
+                target="_blank"
+                className="font-[Candara] font-semibold"
+                rel="noreferrer"
+              >
                 <AiFillInstagram
                   className="w-[3.5rem] md:w-[4.5rem] pb-1 md:pb-2 md:ml-0 ml-2 text-2xl"
                   size={"4.5rem"}
