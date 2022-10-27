@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 // eslint-disable-next-line no-undef
-
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
 
@@ -15,9 +14,7 @@ module.exports = {
         lg: "976px",
       },
       fontFamily: {
-        //gothic: ["Franklin Gothic Medium", "Georgia", "sans-serif"],
         gothic: ["Libre Franklin", "sans-serif"],
-        gothicBold: ["Libre Franklin", "Georgia"],
         segou: ["Segoe Script", "Georgia"],
         caveat: ["Caveat"],
       },

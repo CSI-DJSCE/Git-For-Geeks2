@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AiOutlineSearch } from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineSearch } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import UsersData from "../data/User";
 
@@ -76,22 +76,19 @@ const Home = () => {
 
           {/* GFG Body start */}
           <div className=" scrollbar-thin h-screen md:scrollbar scrollbar-thumb-[#D9D9D9] overflow-y-scroll scrollbar-thumb-rounded-lg scrollbar-track-rounded-full">
-            <div className="bg-white md:px-20  pb-[20%] md:pb-[15%] md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
+            <div className="bg-white md:px-20 pb-[20%] md:pb-[15%] md:border-solid md:border-2 md:border-t-0 md:border-black  md:border-b-0">
               <div
-                className="flex flex-row  justify-center max-w-80 p-10 
-										 text-4xl md:text-8xl text-center font-gothicBold font-normal tracking-[5%] md:ml-[2rem]"
+                className="flex flex-row  justify-center max-w-80 mt-14
+								text-3xl md:text-[4.5rem] text-center font-gothic font-normal tracking-[5%] md:ml-[2rem] items-center"
               >
-                <p className=" tracking-[5%] mr-4 md:mr-8 font-black">GIT</p>
-                <p className="-mr-2 font-black">F</p>
-                <img
-                  src="/assets/images/home/git.png"
-                  className="ml-2 h-7 mt-1.5 md:w-auto md:h-20 md:mt-2"
-                  alt=""
-                />
-                <p className="font-black">R</p>
-                <p className="ml-4 font-black">GEEKS</p>
+                <p className="tracking-[5%] mr-2 md:mr-8 font-black">GIT</p>
+
+                <p className="font-black flex items-center justify-center">
+                  F<AiOutlineGithub className="text-3xl md:text-[4.5rem]" />R{" "}
+                </p>
+                <p className="ml-2 md:ml-6 font-black">GEEKS</p>
               </div>
-              <div className="-mt-8 text-center font-caveat text-2xl mb-8 md:text-7xl md:-mt-4 md:mb-12">
+              <div className="-mt-2 -ml-2 md:ml-0  text-center font-caveat text-3xl mb-8 md:text-7xl md:-mt-2 md:mb-12">
                 Second Commit
               </div>
               <div className="flex justify-center items-center pb-6">
