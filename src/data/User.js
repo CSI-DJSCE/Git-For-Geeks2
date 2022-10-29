@@ -155,5 +155,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "ayushshah39-1": {
+    name: "Jane Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/ayushshah39",
+      instagram: "https://instagram.com/ayushshah39",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
