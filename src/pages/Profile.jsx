@@ -39,11 +39,14 @@ const Profile = () => {
 
         <div className="flex mt-5 items-center justify-center ">
           {links.github && (
-            <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
+            <motion.div
+              className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold "
+              whileHover={{ scale: 0.95 }}
+            >
               <a
                 href={links.github}
                 target="_blank"
-                className="font-[Candara] font-semibold "
+                className="font-[Candara] font-semibold"
                 rel="noreferrer"
               >
                 <AiFillGithub
@@ -52,10 +55,13 @@ const Profile = () => {
                 />
                 Github
               </a>
-            </div>
+            </motion.div>
           )}
           {links.instagram && (
-            <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
+            <motion.div
+              className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold "
+              whileHover={{ scale: 0.95 }}
+            >
               <a
                 href={links.linkedin}
                 target="_blank"
@@ -68,10 +74,13 @@ const Profile = () => {
                 />
                 Linkedin
               </a>
-            </div>
+            </motion.div>
           )}
           {links.linkedin && (
-            <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
+            <motion.div
+              className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold"
+              whileHover={{ scale: 0.95 }}
+            >
               <a
                 href={links.instagram}
                 target="_blank"
@@ -84,10 +93,13 @@ const Profile = () => {
                 />
                 Instagram
               </a>
-            </div>
+            </motion.div>
           )}
           {links.portfolio && (
-            <div className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold">
+            <motion.div
+              className="flex flex-col px-3 md:px-5 items-center pb-5 hover:text-[#525C52] hover:font-bold "
+              whileHover={{ scale: 0.95 }}
+            >
               <a href={links.portfolio} className="font-[Candara] font-semibold">
                 <BsGlobe
                   className="w-[3rem] md:w-[3.25rem] ml-2 pb-1 md:pb-2 md:ml-1 text-2xl"
@@ -95,7 +107,7 @@ const Profile = () => {
                 />
                 Portfolio
               </a>
-            </div>
+            </motion.div>
           )}
         </div>
       </motion.div>

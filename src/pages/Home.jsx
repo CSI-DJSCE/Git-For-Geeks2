@@ -21,38 +21,38 @@ const Home = () => {
   };
 
   return (
-    <div className="w-full flex flex-col items-center space-y-3 bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center relative overflow-x-hidden px-4 md:px-20 h-screen">
+    <div className="w-full flex flex-col items-center space-y-3 bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center relative overflow-x-hidden px-4 lg:px-20 h-screen pt-8">
       {/* Floating images start */}
       <img
         src="/assets/images/home/element.png"
-        className="hidden w-[20rem] md:block absolute object-contain z-[10000]  md:w-[16rem] md:top-[60%] md:left-[4%] "
+        className="hidden w-[20rem] xl:block absolute object-contain z-[10000]  xl:w-[18rem] xl:top-[60%] xl:left-[4%] "
       />
 
       <img
         src="/assets/images/home/STARRR.png"
-        className="hidden  absolute object-contain md:block z-[10000]  md:w-[12rem] md:top-[60%] md:right-[7%]"
+        className="hidden  absolute object-contain xl:block z-[10000]  xl:w-[15rem] xl:top-[60%] xl:right-[7%]"
         alt=""
       />
       <img
         src="/assets/images/home/Date.png"
-        className="hidden z-[10000]  absolute object-contain md:block md:w-[14rem] md:top-[17%] md:left-[6%]"
+        className="hidden z-[10000]  absolute object-contain xl:block xl:w-[15rem] xl:top-[18%] xl:left-[6%]"
         alt=""
       />
 
       <img
         src="/assets/images/home/Location.png"
-        className="hidden  absolute object-contain md:block z-[10000] md:w-[20rem] md:top-[15%] md:right-[3%]"
+        className="hidden  absolute object-contain xl:block z-[10000] xl:w-[22rem] xl:top-[19%] xl:right-[3%]"
         alt=""
       />
 
       {/*<img
         src="/assets/images/home/image-removebg-preview.png"
-        className="hidden w-[20rem]  absolute object-contain  md:block md:top-[11%] md:-left-[22%] "
+        className="hidden w-[20rem]  absolute object-contain  lg:block lg:top-[11%] lg:-left-[22%] "
         alt=""
       />
       <img
         src="/assets/images/home/2nov.png"
-        className="hidden   absolute z-2 object-contain md:block  md:top-[17%] md:-left-[18%]"
+        className="hidden   absolute z-2 object-contain lg:block  lg:top-[17%] lg:-left-[18%]"
         alt=""
       /> */}
       {/* Floating images end */}
@@ -61,63 +61,83 @@ const Home = () => {
         initial={{ opacity: 0.5 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        className="bg-white md:max-w-5xl mx-auto rounded-t-2xl w-[90%] md:w-[60rem]
-        overflow-y-scroll relative scrollbar-thin  md:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full mt-6 border-3 border-b-0 border-black "
+        className="bg-white lg:max-w-5xl xl:min-w-[80%] mx-auto rounded-t-2xl w-[90%] lg:w-[60rem]
+        overflow-y-scroll scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full mt-6 border-3 border-b-0 border-black"
       >
         {/* Header start */}
         <div className="flex flex-row justify-between items-center bg-[#D3E4CD] rounded-t-[0.75rem] px-2 shadow-xl sticky top-0 z-10 border-b-3 border-black">
           {/* Three Button */}
           <div className="flex items-center justify-center">
-            <div className="md:mx-2 m-0.5 mt-2 w-4 h-4 md:w-8 md:h-8 border-solid border-2 md:border-4 md:ml-2 border-black rounded-3xl bg-icon1"></div>
-            <div className="md:mx-2 m-0.5 mt-2 w-4 h-4 md:w-8 md:h-8 border-solid border-2 md:border-4  md:ml-4 border-black rounded-3xl bg-icon2"></div>
-            <div className="md:mx-2 m-0.5 mt-2 w-4 h-4 md:w-8 md:h-8 border-solid border-2 md:border-4 md:ml-4 border-black rounded-3xl bg-icon3"></div>
+            <motion.a
+              href="https://www.linkedin.com/in/mahek-jain-123aa022a/"
+              target="_blank"
+              whileHover={{ scale: 0.9 }}
+              className="lg:mx-2 m-0.5 mt-2 w-4 h-4 lg:w-8 lg:h-8 border-solid border-2 lg:border-4 lg:ml-2 border-black rounded-3xl bg-icon1 cursor-pointer"
+            ></motion.a>
+            <motion.a
+              href="https://www.linkedin.com/in/priyanka2503/"
+              target="_blank"
+              whileHover={{ scale: 0.9 }}
+              className="lg:mx-2 m-0.5 mt-2 w-4 h-4 lg:w-8 lg:h-8 border-solid border-2 lg:border-4  lg:ml-4 border-black rounded-3xl bg-icon2 cursor-pointer"
+            ></motion.a>
+            <motion.a
+              href="https://www.linkedin.com/in/murtaza-shikari-606450230/"
+              target="_blank"
+              whileHover={{ scale: 0.9 }}
+              className="lg:mx-2 m-0.5 mt-2 w-4 h-4 lg:w-8 lg:h-8 border-solid border-2 lg:border-4 lg:ml-4 border-black rounded-3xl bg-icon3 cursor-pointer"
+            ></motion.a>
           </div>
           {/* Three buttons end*/}
           <div className="flex items-center justify-center">
-            <div className="tracking-wider text-sm md:text-2xl mt-1 font-gothic -mr-2 md:-mr-4 font-semibold">
+            <div className="tracking-wider text-xs sm:text-sm lg:text-2xl mt-1 font-gothic -mr-1 lg:-mr-4 font-semibold">
               BROUGHT TO YOU BY
             </div>
-            <div className="">
-              <img src="/assets/images/home/logo.png" className=" mt-1 w-24 md:w-auto" alt="" />
-            </div>
+            <motion.a
+              href="https://djcsi.co.in/"
+              target="_blank"
+              className="block"
+              whileHover={{ scale: 0.95 }}
+            >
+              <img src="/assets/images/home/logo.png" className=" mt-1 w-16 lg:w-auto" alt="" />
+            </motion.a>
           </div>
         </div>
         {/* Header ens */}
 
         {/* GFG Body start */}
-        <div className="bg-white md:px-20">
+        <div className="bg-white lg:px-20">
           <div
             className="flex flex-row justify-center max-w-80 mt-14
-            text-3xl md:text-[4.5rem] text-center font-gothic font-normal tracking-[5%] md:ml-[2rem] items-center"
+            text-3xl lg:text-[4.5rem] text-center font-gothic font-normal tracking-[5%] lg:ml-[2rem] items-center"
           >
-            <p className="tracking-[5%] mr-2 md:mr-8 font-black">GIT</p>
+            <p className="tracking-[5%] mr-2 lg:mr-8 font-black">GIT</p>
 
             <p className="font-black flex items-center justify-center">
-              F<AiOutlineGithub className="text-3xl md:text-[4.5rem]" />R{" "}
+              F<AiOutlineGithub className="text-3xl lg:text-[4.5rem]" />R{" "}
             </p>
-            <p className="ml-2 md:ml-6 font-black">GEEKS</p>
+            <p className="ml-2 lg:ml-6 font-black">GEEKS</p>
           </div>
-          <div className="-mt-2 -ml-2 md:ml-0  text-center font-caveat text-3xl mb-8 md:text-7xl md:-mt-2 md:mb-12">
+          <div className="-mt-2 -ml-2 lg:ml-0  text-center font-caveat text-3xl mb-8 lg:text-7xl lg:-mt-2 lg:mb-12">
             Second Commit
           </div>
           <div className="flex justify-center items-center pb-6">
-            <div className="w-[30rem] border-b-8 p-2 md:p-3 md:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-4 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] md:mb-[1.75rem]">
+            <div className="w-[30rem] border-b-8 p-2 lg:p-3 lg:px-4 flex justify-between space-x-1 text-black font-bold text-center mx-4 bg-darkOlive  border-solid border-2 border-black rounded-3xl mb-[1rem] lg:mb-[1.75rem]">
               <input
                 type="text"
-                className="border-none text-sm md:text-lg font-semibold text-black bg-darkOlive py-2 placeholder-black focus:outline-none md:flex-grow"
+                className="border-none text-sm lg:text-lg font-semibold text-black bg-darkOlive py-2 placeholder-black focus:outline-none lg:flex-grow"
                 placeholder="Search your name here"
                 ref={inputRef}
                 onChange={(e) => setQuery(e.target.value)}
               />
               <AiOutlineSearch
                 size={"2.5rem"}
-                className="mt-2 w-6 h-6 md:w-10 md:h-10 md:mt-0 cursor-pointer focus:text-transparent"
+                className="mt-2 w-6 h-6 lg:w-10 lg:h-10 lg:mt-0 cursor-pointer focus:text-transparent"
                 onClick={handleSearchClick}
               />
             </div>
           </div>
 
-          <div className=" md:pb-8 grid md:grid-cols-2 sm:grid-cols-1 gap-y-4 md:gap-8 px-10 md:px-12 min-w-[80%] text-center text-bold">
+          <div className=" lg:pb-8 grid lg:grid-cols-2 sm:grid-cols-1 gap-y-4 lg:gap-8 px-10 lg:px-12 min-w-[80%] text-center text-bold">
             {search(userIds).map((userId) => {
               const userData = UsersData[userId];
               return (
@@ -139,4 +159,4 @@ const Home = () => {
 
 export default Home;
 
-// scrollbar-thin  md:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full
+// scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full
