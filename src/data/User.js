@@ -155,5 +155,77 @@ const Users = {
       portfolio: "",
     },
   },
+  "technophile-17": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-18": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-36": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-19": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-20": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
