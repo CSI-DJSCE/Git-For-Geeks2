@@ -9,7 +9,7 @@ const Home = () => {
   const userIds = useMemo(() => Object.keys(UsersData), []);
   const [query, setQuery] = useState("");
 
-  const handleSearchClick = (e) => {
+  const handleSearchClick = () => {
     inputRef.current.focus();
   };
 
