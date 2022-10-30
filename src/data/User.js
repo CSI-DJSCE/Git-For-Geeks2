@@ -215,7 +215,115 @@ const Users = {
       portfolio: "",
     },
   },
-  "technophile-26": {
+  "technopfdshile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophildfsae-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "tecadfshnophile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophilfsade-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "tfasechnophile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "tedsfachnophile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technofdsfsphile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technopfdsfhile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technfdsafophile-26": {
+    name: "Jackson Doe",
+    branch: "IT",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et nibh nec magna pretium iaculis et in sapien. Nullam in felis quis sem tincidunt sagittis quis vel odio. Donec vel urna a sem lacinia convallis.",
+    links: {
+      github: "https://github.com/technophile-04",
+      instagram: "https://instagram.com/shivbhonde.eth",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "technophile-fdsaf26": {
     name: "Jackson Doe",
     branch: "IT",
     description:
