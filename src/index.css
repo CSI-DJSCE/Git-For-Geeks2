@@ -10,7 +10,13 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 @tailwind utilities;
 
 body{
-  background-color: #F5F5F5
+  background-color: #F5F5F5;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    overflow-y: hidden;
+  }
 }
 @layer components {
   .primary-btn {

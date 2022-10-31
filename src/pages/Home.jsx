@@ -21,7 +21,7 @@ const Home = () => {
   };
 
   return (
-    <div className="w-full flex flex-col items-center space-y-3 bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center relative overflow-x-hidden px-4 lg:px-20 h-screen pt-8">
+    <div className="w-full flex flex-col items-center bg-[url('../public/assets/images/home/homeback.png')] sm:bg-cover sm:bg-no-repeat bg-center relative overflow-x-hidden px-4 lg:px-20 h-screen pt-8">
       {/* Floating images start */}
       <img
         src="/assets/images/home/element.png"
@@ -61,8 +61,8 @@ const Home = () => {
         initial={{ opacity: 0.5 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        className="bg-white lg:max-w-5xl xl:min-w-[80%] mx-auto rounded-t-2xl w-[90%] lg:w-[60rem]
-        overflow-y-scroll scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-lg scrollbar-track-rounded-full mt-6 border-3 border-b-0 border-black"
+        className="bg-white lg:max-w-5xl xl:min-w-[80%] mx-auto rounded-b-2xl md:rounded-b-none rounded-t-2xl w-[90%] lg:w-[60rem]
+        overflow-y-scroll scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-2xl scrollbar-track-rounded-full mt-0 md:mt-6 border-3 md:border-b-0 border-black h-[80vh] md:h-[100%]"
       >
         {/* Header start */}
         <div className="flex flex-row justify-between items-center bg-[#D3E4CD] rounded-t-[0.75rem] px-2 shadow-xl sticky top-0 z-10 border-b-3 border-black">
