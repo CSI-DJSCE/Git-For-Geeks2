@@ -62,7 +62,7 @@ const Home = () => {
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
         className="bg-white lg:max-w-5xl xl:min-w-[80%] mx-auto rounded-b-2xl md:rounded-b-none rounded-t-2xl w-[90%] lg:w-[60rem]
-        overflow-y-scroll scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-2xl scrollbar-track-rounded-full mt-0 md:mt-6 border-3 md:border-b-0 border-black h-[80vh] md:h-[100%]"
+        overflow-y-scroll scrollbar-thin  lg:scrollbar scrollbar-thumb-[#D9D9D9] scrollbar-thumb-rounded-2xl scrollbar-track-rounded-full mt-0 md:mt-6 border-3 md:border-b-0 border-black h-[85vh] md:h-[100%]"
       >
         {/* Header start */}
         <div className="flex flex-row justify-between items-center bg-[#D3E4CD] rounded-t-[0.75rem] px-2 shadow-xl sticky top-0 z-10 border-b-3 border-black">

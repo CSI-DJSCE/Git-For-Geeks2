@@ -33,7 +33,7 @@ const Profile = () => {
           {branch}
         </div>
 
-        <div className="font-light text-lg text-center text-black font-gothic tracking-normal">
+        <div className="text-lg text-center text-black font-gothic tracking-normal font-normal">
           {description}
         </div>
 
