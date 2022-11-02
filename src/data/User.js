@@ -167,6 +167,14 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
+    "hello": {
+    name: "Bhargavi Vaidya",
+    branch: "AI and DS",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Bhargavi1210",
+     },
+  },
   },
 };
 export default Users;
