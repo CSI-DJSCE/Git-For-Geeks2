@@ -166,6 +166,28 @@ const Users = {
       instagram: "https://www.instagram.com/nemin_sheth/",
       linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
       portfolio: "",
+      },
+     },
+    "niharn22": {
+    name: "Nihar Nandoskar",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/niharn22",
+      instagram: "https://instagram.com/niharnandoskar",
+      linkedin: "https://www.linkedin.com/in/",
+      portfolio: "",
+    },
+  },
+  "temp10": {
+    name: "Temp 10",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/temp10",
+      instagram: "https://www.instagram.com/temp10/?hl=en",
+      linkedin: "https://www.linkedin.com/in/temp10/",
+      portfolio: "",
     },
   },
 };
