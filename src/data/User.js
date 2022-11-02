@@ -156,6 +156,16 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
-  },
-};
-export default Users;
+    "GajJoshi": {
+      name: "Gaj Joshi",
+      branch: "CS",
+      description: "enthusiastic ",
+      links: {
+        github: "https://github.com/gajjoshi",
+        instagram: "",
+        linkedin: "https://www.linkedin.com/in/gaj-joshi-877ba6228",
+        portfolio: "",
+      },
+    },
+  };
+  export default Users;
