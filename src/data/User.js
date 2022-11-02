@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+    "udayIT03": {
+    name: "Uday Baldha",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/udayIT03",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/uday-b-95b73322b",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
