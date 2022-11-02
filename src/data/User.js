@@ -168,5 +168,15 @@ const Users = {
       portfolio: "",
     },
   },
+  MadAra-UcHiH5464": {
+    name: "Arnav More",
+    branch: "IT",
+    description: "Bakchodi",
+    links: {
+      github: "github.com",
+      instagram: "https://www.instagram.com/im_aadil_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
 };
 export default Users;
