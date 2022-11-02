@@ -179,5 +179,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "Vedant4K": {
+  name: "Vedant Chavan",
+  branch: "IT",
+  description: "Exploring | Learning",
+  links: {
+    github: "https://github.com/Vedant4K",
+    instagram: "https://www.instagram.com/vedantchavan25/",
+    linkedin: "https://www.linkedin.com/in/vedant-chavan-772b35229",
+    portfolio: "",
+  },
+},
 };
 export default Users;
