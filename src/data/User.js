@@ -169,6 +169,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "anujbohra23": {
+    name: "Anuj Bohra",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/anujbohra23",
+      instagram: "https://instagram.com/bohraanuj23?igshid=YmMyMTA2M2Y=",
+      linkedin: "https://www.linkedin.com/in/anuj-bohra-977a75251",
+      portfolio: "",
+    },
+  },
   "neminsheth": {
     name: "Nemin Sheth",
     branch: "IT",
@@ -201,7 +212,7 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
-  
+  },
     "kushlav238": {
     name: "Kushal Vadodaria",
     branch: "IT",
