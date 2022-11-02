@@ -157,5 +157,27 @@ const Users = {
       portfolio: "",
     },
   },
+  "kushlav238": {
+    name: "Kushal Vadodaria",
+    branch: "IT",
+    description: "Carpe Deim",
+    links: {
+      github: "https://github.com/kushalv238",
+      instagram: "https://www.instagram.com/kushalv238",
+      linkedin: "https://www.linkedin.com/in/kushal-vadodaria/",
+      portfolio: "",
+    },
+  },
+  "Bhavyaz": {
+    name: "Bhavya Zaveri",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/bhavyaz",
+      instagram: "https://www.instagram.com/bhavya_zaveri",
+      linkedin: "https://www.linkedin.com/in/bhavya-zaveri-300b11151/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
