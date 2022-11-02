@@ -1,4 +1,16 @@
 const Users = {
+  "Rushii": {
+    name: "Rushikesh Gadewar",
+    branch: "IT OP",
+    description:
+      "Don't Tell Anyone I Am A Ninja!",
+    links: {
+      github: "",
+      instagram: "https://www.instagram.com/rushikeshgadewar197/",
+      linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -165,6 +177,29 @@ const Users = {
       github: "https://github.com/anujbohra23",
       instagram: "https://instagram.com/bohraanuj23?igshid=YmMyMTA2M2Y=",
       linkedin: "https://www.linkedin.com/in/anuj-bohra-977a75251",
+      portfolio: "",
+    },
+  },
+  "neminsheth": {
+    name: "Nemin Sheth",
+    branch: "IT",
+    description: "Aspiring Engineer",
+    links: {
+      github: "https://github.com/neminsheth",
+      instagram: "https://www.instagram.com/nemin_sheth/",
+      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
+      portfolio: "",
+      },
+     },
+    "niharn22": {
+    name: "Nihar Nandoskar",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/niharn22",
+      instagram: "https://instagram.com/niharnandoskar",
+      linkedin: "https://www.linkedin.com/in/",
+      portfolio: "",
     },
   },
   "temp10": {
@@ -178,5 +213,38 @@ const Users = {
       portfolio: "",
     },
   },
+    "kushlav238": {
+    name: "Kushal Vadodaria",
+    branch: "IT",
+    description: "Carpe Deim",
+    links: {
+      github: "https://github.com/kushalv238",
+      instagram: "https://www.instagram.com/kushalv238",
+      linkedin: "https://www.linkedin.com/in/kushal-vadodaria/",
+      portfolio: "",
+    },
+  },
+  "Bhavyaz": {
+    name: "Bhavya Zaveri",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/bhavyaz",
+      instagram: "https://www.instagram.com/bhavya_zaveri",
+      linkedin: "https://www.linkedin.com/in/bhavya-zaveri-300b11151/",
+      portfolio: "",
+    },
+  },
+  "Vedant4K": {
+  name: "Vedant Chavan",
+  branch: "IT",
+  description: "Exploring | Learning",
+  links: {
+    github: "https://github.com/Vedant4K",
+    instagram: "https://www.instagram.com/vedantchavan25/",
+    linkedin: "https://www.linkedin.com/in/vedant-chavan-772b35229",
+    portfolio: "",
+  },
+},
 };
 export default Users;
