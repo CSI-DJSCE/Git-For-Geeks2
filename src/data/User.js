@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+   "Sohamthatte": {
+    name: "Soham Thatte",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Sohamthatte",
+      instagram: "https://www.instagram.com/soham.thatte/",
+      linkedin: "https://www.linkedin.com/in/soham-thatte-11b4b3250/",
+      portfolio: "Gitforgeeks",
+    },
+  },
 };
 export default Users;
