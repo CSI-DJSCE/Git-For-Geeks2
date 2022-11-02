@@ -157,16 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+    "shivani2442": {
+    name: "ShivaniPatel",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/shivani2442",
+      instagram: "https://www.instagram.com/shivani_.24/",
+      linkedin: "https://www.linkedin.com/in/shivani-patel-090671235/",
       portfolio: "",
     },
-  },
+  }
 };
 export default Users;
