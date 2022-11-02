@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "dbs-2012": {
+    name: "Darsh Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/dbs-2012",
+      instagram: "https://www.instagram.com/darshshah2002/",
+      linkedin: "https://www.linkedin.com/in/darsh-shah-7b9686226/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
