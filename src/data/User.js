@@ -168,7 +168,7 @@ const Users = {
       portfolio: "",
     },
   },
- "ManasPatil0967": {
+  "ManasPatil0967": {
     name: "RManas Patil",
     branch: "IoT",
     description: "Make good of your tine.",
@@ -176,13 +176,12 @@ const Users = {
       github: "https://github.com/ManasPatil0967",
       instagram: "",
       linkedin: "https://www.linkedin.com/in/manas-patil-239879224/",
-}
-},
+    },
+  },
   "BHAVYAPODDAR": {
     name: "Bhavya Poddar",
     branch: "IT",
-    description:
-      "Exploring new fields to expand my knowledge.",
+    description: "Exploring new fields to expand my knowledge.",
     links: {
       github: "https://github.com/BHAVYAPODDAR",
       instagram: "",
@@ -420,7 +419,7 @@ const Users = {
       portfolio: "",
     },
   },
-   "Sohamthatte": {
+  "Sohamthatte": {
     name: "Soham Thatte",
     branch: "IT",
     description: "Exploring | Learning",
