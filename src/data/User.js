@@ -1,4 +1,16 @@
 const Users = {
+  "1shChheda": {
+    name: "Vansh Chheda",
+    branch: "AI & DS",
+    description:
+      "Expanding My Knowledge in the fields of AI, Data Science, and ML",
+    links: {
+      github: "https://github.com/1shChheda",
+      instagram: "https://instagram.com/chheda_1sh",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
