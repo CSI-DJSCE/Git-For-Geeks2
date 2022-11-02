@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "ssharma2003": {
+    name: "Shreya Sharma",
+    branch: "IT",
+    description: "Exploring | Learning | Enjoying",
+    links: {
+      github: "https://github.com/ssharma2003",
+      instagram: "https://www.instagram.com/im_aadil_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
