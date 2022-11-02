@@ -223,6 +223,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "vaishkadukar": {
+  name: "Vaishnavi Kadukar",
+  branch: "IT",
+  description: "Exploring | Learning",
+  links: {
+    github: "https://github.com/vaishkadukar",
+    instagram: "https://www.instagram.com/vaishnavi_kadukar",
+    linkedin: "https://www.linkedin.com/in/vaishnavi-kadukar-883975250/",
+  }
+  },
   "dbs-2012": {
     name: "Darsh Shah",
     branch: "IT",
