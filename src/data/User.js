@@ -187,9 +187,9 @@ const Users = {
       instagram: "https://www.instagram.com/nemin_sheth/",
       linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
       portfolio: "",
-      },
-     },
-    "niharn22": {
+    },
+  },
+  "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
     description: "Exploring | Learning",
@@ -212,14 +212,14 @@ const Users = {
     },
   },
   "vaishkadukar": {
-  name: "Vaishnavi Kadukar",
-  branch: "IT",
-  description: "Exploring | Learning",
-  links: {
-    github: "https://github.com/vaishkadukar",
-    instagram: "https://www.instagram.com/vaishnavi_kadukar",
-    linkedin: "https://www.linkedin.com/in/vaishnavi-kadukar-883975250/",
-  }
+    name: "Vaishnavi Kadukar",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/vaishkadukar",
+      instagram: "https://www.instagram.com/vaishnavi_kadukar",
+      linkedin: "https://www.linkedin.com/in/vaishnavi-kadukar-883975250/",
+    },
   },
   "dbs-2012": {
     name: "Darsh Shah",
@@ -255,7 +255,7 @@ const Users = {
       portfolio: "",
     },
   },
-    "kushlav238": {
+  "kushlav238": {
     name: "Kushal Vadodaria",
     branch: "IT",
     description: "Carpe Deim",
@@ -278,39 +278,37 @@ const Users = {
     },
   },
   "Vedant4K": {
-  name: "Vedant Chavan",
-  branch: "IT",
-  description: "Exploring | Learning",
-  links: {
-    github: "https://github.com/Vedant4K",
-    instagram: "https://www.instagram.com/vedantchavan25/",
-    linkedin: "https://www.linkedin.com/in/vedant-chavan-772b35229",
-    portfolio: "",
+    name: "Vedant Chavan",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Vedant4K",
+      instagram: "https://www.instagram.com/vedantchavan25/",
+      linkedin: "https://www.linkedin.com/in/vedant-chavan-772b35229",
+      portfolio: "",
+    },
   },
-},
   "MithilBavishi": {
     name: "Mithil Bavishi",
     branch: "IT",
-    description:
-      "Each program has, at minimum, one unnecessary line of code.",
+    description: "Each program has, at minimum, one unnecessary line of code.",
     links: {
       github: "https://github.com/MightyM17",
       instagram: "https://instagram.com/mithilbavishi",
       linkedin: "https://www.linkedin.com/in/mithil-bavishi/",
-}
-},
+    },
+  },
   "Rushii": {
     name: "Rushikesh Gadewar",
     branch: "IT OP",
-    description:
-      "Don't Tell Anyone I Am A Ninja!",
+    description: "Don't Tell Anyone I Am A Ninja!",
     links: {
       github: "",
       instagram: "https://www.instagram.com/rushikeshgadewar197/",
       linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
       portfolio: "",
     },
-   },
+  },
   "jeniels": {
     name: "Jeniel Shah",
     branch: "IT",
