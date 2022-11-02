@@ -157,14 +157,14 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+  "Mustansir-M": {
+    name: "Mustansir Motiwala",
     branch: "IT",
-    description: "Exploring | Learning",
+    description: "Exploring | Learning | Enjoying",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/Mustansir-M",
+      instagram: "https://www.instagram.com/im_aadil_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
   },
