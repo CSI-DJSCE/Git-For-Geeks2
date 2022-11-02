@@ -159,7 +159,7 @@ const Users = {
     "GajJoshi": {
       name: "Gaj Joshi",
       branch: "CS",
-      description: "enthusiastic ",
+      description: "enthusiastic | learning ;) ",
       links: {
         github: "https://github.com/gajjoshi",
         instagram: "",
