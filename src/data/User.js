@@ -157,14 +157,15 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+  "BHAVYAPODDAR": {
+    name: "Bhavya Poddar",
     branch: "IT",
-    description: "Exploring | Learning",
+    description:
+      "Exploring new fields to expand my knowledge.",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/BHAVYAPODDAR",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/bhavya-poddar-b90721250",
       portfolio: "",
     },
   },
