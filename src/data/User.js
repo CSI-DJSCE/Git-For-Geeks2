@@ -1,4 +1,16 @@
 const Users = {
+  "Rushii": {
+    name: "Rushikesh Gadewar",
+    branch: "IT OP",
+    description:
+      "Don't Tell Anyone I Am A Ninja!",
+    links: {
+      github: "",
+      instagram: "https://www.instagram.com/rushikeshgadewar197/",
+      linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -157,6 +169,38 @@ const Users = {
       portfolio: "",
     },
   },
+  "AryanGupta2406": {
+    name: "Aryan gupta",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/AryanGupta2406",
+      linkedin: "https://www.linkedin.com/in/aryan-gupta-0a348522a/",
+      portfolio: "",
+    },
+  },
+  "anujbohra23": {
+    name: "Anuj Bohra",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/anujbohra23",
+      instagram: "https://instagram.com/bohraanuj23?igshid=YmMyMTA2M2Y=",
+      linkedin: "https://www.linkedin.com/in/anuj-bohra-977a75251",
+      portfolio: "",
+    },
+  },
+  "neminsheth": {
+    name: "Nemin Sheth",
+    branch: "IT",
+    description: "Aspiring Engineer",
+    links: {
+      github: "https://github.com/neminsheth",
+      instagram: "https://www.instagram.com/nemin_sheth/",
+      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
+      portfolio: "",
+      },
+     },
     "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
@@ -179,5 +223,49 @@ const Users = {
       portfolio: "",
     },
   },
+  "dbs-2012": {
+    name: "Darsh Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/dbs-2012",
+      instagram: "https://www.instagram.com/darshshah2002/",
+      linkedin: "https://www.linkedin.com/in/darsh-shah-7b9686226/",
+      portfolio: "",
+    },
+  },
+    "kushlav238": {
+    name: "Kushal Vadodaria",
+    branch: "IT",
+    description: "Carpe Deim",
+    links: {
+      github: "https://github.com/kushalv238",
+      instagram: "https://www.instagram.com/kushalv238",
+      linkedin: "https://www.linkedin.com/in/kushal-vadodaria/",
+      portfolio: "",
+    },
+  },
+  "Bhavyaz": {
+    name: "Bhavya Zaveri",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/bhavyaz",
+      instagram: "https://www.instagram.com/bhavya_zaveri",
+      linkedin: "https://www.linkedin.com/in/bhavya-zaveri-300b11151/",
+      portfolio: "",
+    },
+  },
+  "Vedant4K": {
+  name: "Vedant Chavan",
+  branch: "IT",
+  description: "Exploring | Learning",
+  links: {
+    github: "https://github.com/Vedant4K",
+    instagram: "https://www.instagram.com/vedantchavan25/",
+    linkedin: "https://www.linkedin.com/in/vedant-chavan-772b35229",
+    portfolio: "",
+  },
+},
 };
 export default Users;
