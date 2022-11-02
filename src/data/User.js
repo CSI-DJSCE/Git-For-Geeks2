@@ -157,28 +157,6 @@ const Users = {
       portfolio: "",
     },
   },
-  "neminsheth": {
-    name: "Nemin Sheth",
-    branch: "IT",
-    description: "Aspiring Engineer",
-    links: {
-      github: "https://github.com/neminsheth",
-      instagram: "https://www.instagram.com/nemin_sheth/",
-      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
-      portfolio: "",
-      },
-     },
-    "niharn22": {
-    name: "Nihar Nandoskar",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/niharn22",
-      instagram: "https://instagram.com/niharnandoskar",
-      linkedin: "https://www.linkedin.com/in/",
-      portfolio: "",
-    },
-  },
   "temp10": {
     name: "Temp 10",
     branch: "IT",
@@ -187,6 +165,18 @@ const Users = {
       github: "https://github.com/temp10",
       instagram: "https://www.instagram.com/temp10/?hl=en",
       linkedin: "https://www.linkedin.com/in/temp10/",
+      portfolio: "",
+    },
+  },
+   "rockeyur": {
+    name: "Keyur Parmar",
+    branch: "IT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/rockeyur",
+      instagram: "https://instagram.com/keyur_parmar_1203",
+      linkedin: "https://www.linkedin.com/in/keyur-parmar-5414a8238/",
       portfolio: "",
     },
   },
