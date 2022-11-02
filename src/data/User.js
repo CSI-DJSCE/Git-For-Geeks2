@@ -155,29 +155,16 @@ const Users = {
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
-    },
+   },
   },
-    "niharn22": {
-    name: "Nihar Nandoskar",
-    branch: "IT",
-    description: "Exploring | Learning",
+  "Nadpi-Pinad": {
+    name: "Prasanna Nadkarni",
+    branch: "EXTC",
+    description: "Agnostic by Choice, Litterateur by Passion, Xenophile with an Adjectival Name!!!",
     links: {
-      github: "https://github.com/niharn22",
-      instagram: "https://instagram.com/niharnandoskar",
-      linkedin: "https://www.linkedin.com/in/",
+      github: "https://github.com/Nadpi-Pinad",
+      instagram: "https://www.instagram.com/agnostic_litterateur756/?hl=en",
+      linkedin: "https://www.linkedin.com/in/prasanna-nadkarni-315a96255/",
       portfolio: "",
-    },
-  },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
-      portfolio: "",
-    },
-  },
 };
 export default Users;
