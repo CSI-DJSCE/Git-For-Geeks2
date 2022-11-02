@@ -157,6 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "anujbohra23": {
+    name: "Anuj Bohra",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/anujbohra23",
+      instagram: "https://instagram.com/bohraanuj23?igshid=YmMyMTA2M2Y=",
+      linkedin: "https://www.linkedin.com/in/anuj-bohra-977a75251",
+    },
+  },
   "temp10": {
     name: "Temp 10",
     branch: "IT",
