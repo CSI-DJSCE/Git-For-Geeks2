@@ -1,4 +1,16 @@
 const Users = {
+"yashshahbhai": {
+    name: "YASH SHAH",
+    branch: "IT",
+    description:
+      "Expanding my knowledge in web development and trying to implement new things by exploring other fields",
+    links: {
+      github: "https://github.com/yashshahbhai",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
