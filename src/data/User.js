@@ -157,6 +157,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "neminsheth": {
+    name: "Nemin Sheth",
+    branch: "IT",
+    description: "Aspiring Engineer",
+    links: {
+      github: "https://github.com/neminsheth",
+      instagram: "https://www.instagram.com/nemin_sheth/",
+      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
+      portfolio: "",
+      },
+     },
     "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
