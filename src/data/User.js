@@ -169,6 +169,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "AryanGupta2406": {
+    name: "Aryan gupta",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/AryanGupta2406",
+      linkedin: "https://www.linkedin.com/in/aryan-gupta-0a348522a/",
+      portfolio: "",
+    },
+  },
   "anujbohra23": {
     name: "Anuj Bohra",
     branch: "IT",
