@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+   "ParvKaria": {
+    name: "Parv Karia",
+    branch: "CSE [IOT]",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/ParvKaria",
+      instagram: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      linkedin: "https://www.linkedin.com/in/parv-karia-b2748222a/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
