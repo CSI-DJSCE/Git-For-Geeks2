@@ -1,4 +1,16 @@
 const Users = {
+  DhruvJ014": {
+    name: "Dhruv Jain",
+    branch: "CSE-DS",
+    description:
+      "Learning Github rn :)",
+    links: {
+      github: "https://github.com/dhruvj014",
+      instagram: "https://instagram.com/dhruvjain_014",
+      linkedin: "https://www.linkedin.com/in/dhruvjain314/",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
