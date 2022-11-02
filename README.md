@@ -1,10 +1,10 @@
 # Git For Geeks Second Commit 🚀
 The website is made for DJCSI's Git For Geeks Second Commit workshop to demonstrate Github Workflow.
 ## Tech Stack 💻
-1) React : UI library 
-2) React Router Dom : For routing
-3) Tailwind CSS : CSS Framework
-4) Framer Motion : For basic animation
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 ## Project Screen Shots
 #### Home Page :
