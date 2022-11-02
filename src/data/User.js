@@ -157,17 +157,6 @@ const Users = {
       portfolio: "",
     },
   },
-  "neminsheth": {
-    name: "Nemin Sheth",
-    branch: "IT",
-    description: "Aspiring Engineer",
-    links: {
-      github: "https://github.com/neminsheth",
-      instagram: "https://www.instagram.com/nemin_sheth/",
-      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
-      portfolio: "",
-      },
-     },
     "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
@@ -179,14 +168,14 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+  "MorakhiaDhimant": {
+    name: "Dhimant Morakhia",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
+      github: "https://github.com/MorakhiaDhimant",
       instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      linkedin: "https://www.linkedin.com/in/dhimant-morakhia-7b49a2237/",
       portfolio: "",
     },
   },
