@@ -157,6 +157,18 @@ const Users = {
       portfolio: "",
     },
   },
+  "BHAVYAPODDAR": {
+    name: "Bhavya Poddar",
+    branch: "IT",
+    description:
+      "Exploring new fields to expand my knowledge.",
+    links: {
+      github: "https://github.com/BHAVYAPODDAR",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/bhavya-poddar-b90721250",
+      portfolio: "",
+    },
+  },
   "SwayamMestry": {
     name: "Swayam Mestry",
     branch: "IoT",
