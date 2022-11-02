@@ -157,14 +157,14 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+  "tanayajoshi": {
+    name: "Tanaya Joshi",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/tanayajoshi",
+      instagram: "https://www.instagram.com/invites/contact/?i=16yqg1wzr2n32&utm_content=2h7oe8s",
+      linkedin: "http://linkedin.com/in/tanaya-joshi-4b95b7230",
       portfolio: "",
     },
   },
