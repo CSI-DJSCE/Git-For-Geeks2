@@ -157,6 +157,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "kriti.derasadi": {
+    name: "Kriti Derasadi",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Kderasadi",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/kriti-derasadi-1086b522a/",
+      portfolio: "",
+    },
+  },
   "RiddheshMistry": {
     name: "Riddhesh Mistry",
     branch: "EXTC",
