@@ -169,6 +169,17 @@ const Users = {
       portfolio: "",
     },
   },
+   "SwayamMestry": {
+    name: "Swayam Mestry",
+    branch: "IoT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/SwayamMestry",
+      instagram: "https://www.instagram.com/5wayam/",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
   "AryanGupta2406": {
     name: "Aryan gupta",
     branch: "IT",
