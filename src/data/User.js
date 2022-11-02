@@ -157,17 +157,6 @@ const Users = {
       portfolio: "",
     },
   },
-    "niharn22": {
-    name: "Nihar Nandoskar",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/niharn22",
-      instagram: "https://instagram.com/niharnandoskar",
-      linkedin: "https://www.linkedin.com/in/",
-      portfolio: "",
-    },
-  },
   "temp10": {
     name: "Temp 10",
     branch: "IT",
@@ -179,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+    "Viral0401": {
+    name: "Viral Dalal",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Viral0401",
+      instagram: "https://www.instagram.com/wtfviral_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/viral-dalal-424827251"
+    },
+  },
+    
 };
 export default Users;
