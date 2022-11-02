@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+   "sarthakmahale123": {
+    name: "Sarthak Mahale",
+    branch: "IT",
+    description: "Insert Chhapri bio here:",
+    links: {
+      github: "https://github.com/sarthakmahale123",
+      instagram: "https://instagram.com/sarthak_mahale12",
+      linkedin: "https://www.linkedin.com/in/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
