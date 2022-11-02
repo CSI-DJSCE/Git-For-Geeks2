@@ -157,14 +157,14 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
+  "RACHIT101": {
+    name: "Rachit Gala",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/RacHiT101",
+      instagram: "https://www.instagram.com/galaraachit/?hl=en",
+      linkedin: "https://www.linkedin.com/in/rachit-gala-ab968b235/",
       portfolio: "",
     },
   },
