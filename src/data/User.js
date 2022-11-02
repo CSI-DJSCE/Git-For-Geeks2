@@ -1,4 +1,16 @@
 const Users = {
+  "Rushii": {
+    name: "Rushikesh Gadewar",
+    branch: "IT OP",
+    description:
+      "Don't Tell Anyone I Am A Ninja!",
+    links: {
+      github: "",
+      instagram: "https://www.instagram.com/rushikeshgadewar197/",
+      linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
