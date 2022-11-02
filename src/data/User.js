@@ -276,6 +276,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "TanmayRaina": {
+    name: "Tanmay Raina",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Tanmay Raina",
+      instagram: "https://www.instagram.com/tanmay_raina/?hl=en",
+      linkedin: "https://www.linkedin.com/in/temp10/",
+      portfolio: "",
+    },
+  },
   "IshaPatade": {
     name: "Isha Patade",
     branch: "IT",
