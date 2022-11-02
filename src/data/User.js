@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "priyal3251": {
+    name: "Priyal Donda",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/priyal3251",
+      instagram: "https://www.instagram.com/priyalll_d/?hl=en"",
+      linkedin: "https://www.linkedin.com/in/priyal-donda-55648522a/edit/forms/contact-info/new/?profileFormEntryPoint=PROFILE_TOP_CARD_EDIT_FORM",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
