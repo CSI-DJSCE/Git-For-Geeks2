@@ -179,5 +179,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "IshaPatade": {
+    name: "Isha Patade",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/IshaPatade",
+      instagram: "https://www.instagram.com/_ishaaaa__",
+      linkedin: "https://www.linkedin.com/in/isha-patade-096226252/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
