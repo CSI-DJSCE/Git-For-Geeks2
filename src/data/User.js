@@ -1,16 +1,4 @@
 const Users = {
-  DhruvJ014": {
-    name: "Dhruv Jain",
-    branch: "CSE-DS",
-    description:
-      "Learning Github rn :)",
-    links: {
-      github: "https://github.com/dhruvj014",
-      instagram: "https://instagram.com/dhruvjain_014",
-      linkedin: "https://www.linkedin.com/in/dhruvjain314/",
-      portfolio: "",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -20,18 +8,6 @@ const Users = {
       github: "https://github.com/Priyankaa2503",
       instagram: "https://instagram.com/priyankaa__25",
       linkedin: "https://www.linkedin.com/in/priyanka2503/",
-      portfolio: "",
-    },
-  },
-  "Vsoham": {
-    name: "Soham rane",
-    branch: "IOT",
-    description:
-      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
-    links: {
-      github: "",
-      instagram: "",
-      linkedin: "",
       portfolio: "",
     },
   },
@@ -181,7 +157,7 @@ const Users = {
       portfolio: "",
     },
   },
-   "SwayamMestry": {
+  "SwayamMestry": {
     name: "Swayam Mestry",
     branch: "IoT",
     description: "Exploring | Learning",
@@ -366,7 +342,7 @@ const Users = {
       portfolio: "",
     },
   },
-   "ParvKaria": {
+  "ParvKaria": {
     name: "Parv Karia",
     branch: "CSE [IOT]",
     description: "Exploring | Learning",
@@ -374,6 +350,29 @@ const Users = {
       github: "https://github.com/ParvKaria",
       instagram: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       linkedin: "https://www.linkedin.com/in/parv-karia-b2748222a/",
+      portfolio: "",
+    },
+  },
+  "DhruvJ014": {
+    name: "Dhruv Jain",
+    branch: "CSE-DS",
+    description: "Learning Github rn :)",
+    links: {
+      github: "https://github.com/dhruvj014",
+      instagram: "https://instagram.com/dhruvjain_014",
+      linkedin: "https://www.linkedin.com/in/dhruvjain314/",
+      portfolio: "",
+    },
+  },
+  "Vsoham": {
+    name: "Soham rane",
+    branch: "IOT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "",
+      instagram: "",
+      linkedin: "",
       portfolio: "",
     },
   },
