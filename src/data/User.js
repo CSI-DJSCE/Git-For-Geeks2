@@ -167,6 +167,17 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
+   },
+  "jeniels": {
+    name: "Jeniel Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/jeniels/",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/jeniel-shah-77a455205/",
+      portfolio: "",
+    },
   },
 };
 export default Users;
