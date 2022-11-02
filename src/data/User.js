@@ -157,14 +157,25 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
+  "RiddheshMistry": {
+    name: "Riddhesh Mistry",
+    branch: "EXTC",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
+      github: "https://github.com/Riddhesh0109",
+      instagram: "https://www.instagram.com/riddheshh_/?hl=e",
+      linkedin: "https://www.linkedin.com/in/riddhesh-mistry-651856235/",
+      portfolio: "",
+    },
+  },
+ "ManasPatil0967": {
+    name: "RManas Patil",
+    branch: "IoT",
+    description: "Make good of your tine.",
+    links: {
+      github: "https://github.com/ManasPatil0967",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/manas-patil-239879224/",
       portfolio: "",
     },
   },
