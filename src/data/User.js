@@ -11,6 +11,18 @@ const Users = {
       portfolio: "",
     },
   },
+  "Vsoham": {
+    name: "Soham rane",
+    branch: "IOT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
   "MurtazaShikari": {
     name: "Murtaza Shikari",
     branch: "IT",
