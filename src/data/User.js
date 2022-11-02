@@ -245,6 +245,18 @@ const Users = {
       portfolio: "",
     },
   },
+  "AnuragLade": {
+    name: "Anurag Lade",
+    branch: "IT",
+    description:
+      "Expanding my knowledge in web development and trying to implement new things by exploring other fields",
+    links: {
+      github: "GitHub-www.github.com/Anurag11L",
+      instagram: "https://www.instagram.com/_anureg_/",
+      linkedin: "LinkIn-linkedin.com/in/anurag-lade-aaa4b022a",
+      portfolio: "",
+    },
+  },
     "kushlav238": {
     name: "Kushal Vadodaria",
     branch: "IT",
