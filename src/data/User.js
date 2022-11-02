@@ -157,5 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "SKyde": {
+    name: "Vansh Jain",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/MadAra-UcHiHa8https://github.com/vanshJ314",
+      instagram: "https://www.instagram.com/vanshj03/?hl=en",
+      linkedin: "hhttps://www.linkedin.com/in/vansh-jain-400696235/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
