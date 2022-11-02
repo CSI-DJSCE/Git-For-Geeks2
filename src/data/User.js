@@ -157,5 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "shahsamkit3124": {
+    name: "Samkit Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/shahsamkit3124",
+      instagram: "https://www.instagram.com/_samkit.shah_3124/",
+      linkedin: "https://www.linkedin.com/in/samkit-shah-752802216/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
