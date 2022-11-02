@@ -1,4 +1,15 @@
 const Users = {
+  "quintessentialdevrev": {
+    name: "Satvam Thakkar",
+    branch: "DS",
+    description: "The only thing that I know, is that I know nothing",
+    links: {
+      github: "https://github.com/quintessentialdevrev",
+      instagram: "https://www.instagram.com/satvam_thakkar/",
+      linkedin: "https://www.linkedin.com/in/satvam-thakkar-5a5744250/",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
