@@ -1,4 +1,16 @@
 const Users = {
+  "MithilBavishi": {
+    name: "Mithil Bavishi",
+    branch: "IT",
+    description:
+      "Each program has, at minimum, one unnecessary line of code.",
+    links: {
+      github: "https://github.com/MightyM17",
+      instagram: "https://instagram.com/mithilbavishi",
+      linkedin: "https://www.linkedin.com/in/mithil-bavishi/",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
