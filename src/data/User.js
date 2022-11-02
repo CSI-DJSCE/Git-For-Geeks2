@@ -1,16 +1,4 @@
 const Users = {
-  "Rushii": {
-    name: "Rushikesh Gadewar",
-    branch: "IT OP",
-    description:
-      "Don't Tell Anyone I Am A Ninja!",
-    links: {
-      github: "",
-      instagram: "https://www.instagram.com/rushikeshgadewar197/",
-      linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
-      portfolio: "",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -300,5 +288,28 @@ const Users = {
     portfolio: "",
   },
 },
+  "MithilBavishi": {
+    name: "Mithil Bavishi",
+    branch: "IT",
+    description:
+      "Each program has, at minimum, one unnecessary line of code.",
+    links: {
+      github: "https://github.com/MightyM17",
+      instagram: "https://instagram.com/mithilbavishi",
+      linkedin: "https://www.linkedin.com/in/mithil-bavishi/",
+}
+},
+  "Rushii": {
+    name: "Rushikesh Gadewar",
+    branch: "IT OP",
+    description:
+      "Don't Tell Anyone I Am A Ninja!",
+    links: {
+      github: "",
+      instagram: "https://www.instagram.com/rushikeshgadewar197/",
+      linkedin: "https://www.linkedin.com/in/rushikesh-gadewar-4a6847210/?originalSubdomain=in",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
