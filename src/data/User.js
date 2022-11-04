@@ -157,6 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "BHAVYAPODDAR": {
+    name: "Bhavya Poddar",
+    branch: "IT",
+    description: "enthusiastic | learning ;) ",
+    links : {
+      github: "https://github.com/BHAVYAPODDAR",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/bhavya-poddar-b90721250",
+    }
+},
   "GajJoshi": {
     name: "Gaj Joshi",
     branch: "CS",
@@ -310,7 +320,8 @@ const Users = {
   "MorakhiaDhimant": {
     name: "Dhimant Morakhia",
     branch: "IT",
-    description: "Exploring | Learning",
+    description:
+      "Exploring new fields to expand my knowledge.",
     links: {
       github: "https://github.com/MorakhiaDhimant",
       instagram: "https://www.instagram.com/temp10/?hl=en",
