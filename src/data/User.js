@@ -584,5 +584,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "Udayanvats": {
+    name: "Udayan vats",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Udayanvats",
+      instagram: "https://www.instagram.com/udayan.vats/",
+      linkedin: "https://www.linkedin.com/in/udayan-vats-302a1b225/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
