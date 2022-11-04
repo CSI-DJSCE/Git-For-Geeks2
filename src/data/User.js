@@ -155,30 +155,30 @@ const Users = {
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
-   },
+    },
   },
 
   "Nadpi-Pinad": {
     name: "Prasanna Nadkarni",
     branch: "EXTC",
     description: "Agnostic by Choice, Litterateur by Passion, Xenophile with an Adjectival Name!!!",
-    links : {
+    links: {
       github: "https://github.com/Nadpi-Pinad",
       instagram: "https://www.instagram.com/agnostic_litterateur756/?hl=en",
       linkedin: "https://www.linkedin.com/in/prasanna-nadkarni-315a96255/",
       portfolio: "",
-    }
     },
+  },
   "BHAVYAPODDAR": {
     name: "Bhavya Poddar",
     branch: "IT",
     description: "enthusiastic | learning ;) ",
-    links : {
+    links: {
       github: "https://github.com/BHAVYAPODDAR",
       instagram: "",
       linkedin: "https://www.linkedin.com/in/bhavya-poddar-b90721250",
-    }
-},
+    },
+  },
   "GajJoshi": {
     name: "Gaj Joshi",
     branch: "CS",
@@ -243,17 +243,6 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/manas-patil-239879224/",
     },
   },
-  "BHAVYAPODDAR": {
-    name: "Bhavya Poddar",
-    branch: "IT",
-    description: "Exploring new fields to expand my knowledge.",
-    links: {
-      github: "https://github.com/BHAVYAPODDAR",
-      instagram: "",
-      linkedin: "https://www.linkedin.com/in/bhavya-poddar-b90721250",
-      portfolio: "",
-    },
-  },
   "Mustansir-M": {
     name: "Mustansir Motiwala",
     description: "Exploring | Learning | Enjoying",
@@ -263,7 +252,7 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
-   }, 
+  },
   "SwayamMestry": {
     name: "Swayam Mestry",
     branch: "IoT",
@@ -319,7 +308,6 @@ const Users = {
   },
   "shivani2442": {
     name: "ShivaniPatel",
-
     branch: "IT",
     description: "Exploring | Learning | Enjoying",
     links: {
@@ -328,7 +316,8 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/shivani-patel-090671235/",
       portfolio: "",
     },
-    "tabss007": {
+  },
+  "tabss007": {
     name: "Tanvi Bhide",
     description: "Go with the flow",
     links: {
@@ -337,7 +326,6 @@ const Users = {
       instagram: "",
       portfolio: "",
     },
-  },
   },
   "niharn22": {
     name: "Nihar Nandoskar",
@@ -353,8 +341,7 @@ const Users = {
   "MorakhiaDhimant": {
     name: "Dhimant Morakhia",
     branch: "IT",
-    description:
-      "Exploring new fields to expand my knowledge.",
+    description: "Exploring new fields to expand my knowledge.",
     links: {
       github: "https://github.com/MorakhiaDhimant",
       instagram: "https://www.instagram.com/temp10/?hl=en",
@@ -713,7 +700,7 @@ const Users = {
       instagram: "https://www.instagram.com/rakite28/",
       linkedin: "https://www.linkedin.com/in/rachit-bhojani-b1a36b214",
       portfolio:
-        "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
+        "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
     },
   },
   "yashshahbhai": {
@@ -794,6 +781,7 @@ const Users = {
       instagram: "https://www.instagram.com/Ronakk,javeri",
       linkedin: "",
       portfolio: "",
+    },
   },
 };
 
