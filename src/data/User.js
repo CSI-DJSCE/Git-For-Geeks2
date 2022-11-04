@@ -297,6 +297,16 @@ const Users = {
       portfolio: "",
     },
   },
+   "rockeyur": {
+    name: "Keyur Parmar",
+    branch: "IT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/rockeyur",
+      instagram: "https://instagram.com/keyur_parmar_1203",
+      linkedin: "https://www.linkedin.com/in/keyur-parmar-5414a8238/",
+      }},
    "Aditya-Dalvi": {
     name: "Aditya Dalvi",
     branch: "IOT",
@@ -463,5 +473,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "neminsheth": {
+    name: "Nemin Sheth",
+    branch: "IT",
+    description: "Aspiring Engineer",
+    links: {
+      github: "https://github.com/neminsheth",
+      instagram: "https://www.instagram.com/nemin_sheth/",
+      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
+      portfolio: "",
+      },
+     },
 };
 export default Users;
