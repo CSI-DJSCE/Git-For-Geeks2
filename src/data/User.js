@@ -595,5 +595,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "hetnakhua": {
+    name: "Het Nakhua",
+    branch: "IT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/hetnakhua",
+      instagram: "https://instagram.com/hetnakhua",
+      linkedin: "https://www.linkedin.com/in/het-nakhua/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
