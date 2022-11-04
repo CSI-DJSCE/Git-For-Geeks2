@@ -1,15 +1,4 @@
 const Users = {
-  "rahul15rc": {
-    name: "Rahul Chougule",
-    branch: "IT",
-    description: "-_-",
-    links: {
-      github: "https://github.com/rahul15rc",
-      instagram: "https://www.instagram.com/rahulll._.15/",
-      linkedin: "https://www.linkedin.com/in/rahulchougule15/",
-      portfolio: "",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -165,6 +154,17 @@ const Users = {
       github: "https://github.com/MadAra-UcHiHa89",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+  },
+    "rahul15rc": {
+    name: "Rahul Chougule",
+    branch: "IT",
+    description: "-_-",
+    links: {
+      github: "https://github.com/rahul15rc",
+      instagram: "https://www.instagram.com/rahulll._.15/",
+      linkedin: "https://www.linkedin.com/in/rahulchougule15/",
       portfolio: "",
     },
   },
