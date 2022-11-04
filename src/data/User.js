@@ -297,7 +297,7 @@ const Users = {
       portfolio: "",
     },
   },
-   "rockeyur": {
+  "rockeyur": {
     name: "Keyur Parmar",
     branch: "IT",
     description:
@@ -306,8 +306,9 @@ const Users = {
       github: "https://github.com/rockeyur",
       instagram: "https://instagram.com/keyur_parmar_1203",
       linkedin: "https://www.linkedin.com/in/keyur-parmar-5414a8238/",
-      }},
-   "Aditya-Dalvi": {
+    },
+  },
+  "Aditya-Dalvi": {
     name: "Aditya Dalvi",
     branch: "IOT",
     description: "Exploring | Learning",
@@ -317,7 +318,7 @@ const Users = {
       linkedin: "https://bit.ly/3CfK8CR",
       portfolio: "",
     },
-  }, 
+  },
   "IshaPatade": {
     name: "Isha Patade",
     branch: "IT",
@@ -462,27 +463,5 @@ const Users = {
       portfolio: "Gitforgeeks",
     },
   },
-    "niharn22": {
-    name: "Nihar Nandoskar",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/niharn22",
-      instagram: "https://instagram.com/niharnandoskar",
-      linkedin: "https://www.linkedin.com/in/",
-      portfolio: "",
-    },
-  },
-  "neminsheth": {
-    name: "Nemin Sheth",
-    branch: "IT",
-    description: "Aspiring Engineer",
-    links: {
-      github: "https://github.com/neminsheth",
-      instagram: "https://www.instagram.com/nemin_sheth/",
-      linkedin: "https://www.linkedin.com/in/nemin-sheth-dj-it/",
-      portfolio: "",
-      },
-     },
 };
 export default Users;
