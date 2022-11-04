@@ -663,6 +663,16 @@ const Users = {
 
     },
   },
+
+  "ssharma2003": {
+    name: "Shreya Sharma",
+    branch: "IT",
+    description: "Exploring | Learning | Enjoying",
+    links: {
+      github: "https://github.com/ssharma2003",
+      instagram: "https://www.instagram.com/im_aadil_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+}},
   "SKyde": {
     name: "Vansh Jain",
     branch: "IT",
@@ -682,6 +692,7 @@ const Users = {
       github: "https://github.com/shahsamkit3124",
       instagram: "https://www.instagram.com/_samkit.shah_3124/",
       linkedin: "https://www.linkedin.com/in/samkit-shah-752802216/",
+
       portfolio: "",
     },
   },
