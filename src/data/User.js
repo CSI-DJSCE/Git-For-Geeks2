@@ -1,16 +1,4 @@
 const Users = {
-  "hetnakhua": {
-    name: "Het Nakhua",
-    branch: "IT",
-    description:
-      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
-    links: {
-      github: "https://github.com/hetnakhua",
-      instagram: "https://instagram.com/hetnakhua",
-      linkedin: "https://www.linkedin.com/in/het-nakhua/",
-      portfolio: "",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -166,6 +154,18 @@ const Users = {
       github: "https://github.com/MadAra-UcHiHa89",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+  },
+  "hetnakhua": {
+    name: "Het Nakhua",
+    branch: "IT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/hetnakhua",
+      instagram: "https://instagram.com/hetnakhua",
+      linkedin: "https://www.linkedin.com/in/het-nakhua/",
       portfolio: "",
     },
   },
