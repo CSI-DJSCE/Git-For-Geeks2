@@ -178,6 +178,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "RACHIT101": {
+    name: "Rachit Gala",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/RacHiT101",
+      instagram: "https://www.instagram.com/galaraachit/?hl=en",
+      linkedin: "https://www.linkedin.com/in/rachit-gala-ab968b235/",
+    }
+},
   "kriti.derasadi": {
     name: "Kriti Derasadi",
     branch: "IT",
