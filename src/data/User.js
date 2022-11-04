@@ -572,5 +572,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "PARZIVAL0609": {
+    name: "Dhruv Shah",
+    branch: "IT",
+    description:
+      "",
+    links: {
+      github: "https://github.com/PARZIVAL0609",
+      instagram: "https://instagram.com/parzival_069",
+      linkedin: "https://www.linkedin.com/in/dhruv-shah-21a151250/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
