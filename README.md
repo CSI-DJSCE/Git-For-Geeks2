@@ -39,4 +39,4 @@ open `localhost:3000`  on browser.
 
 We welcome contributions to  Git For Geeks2!
 
-Please see [CONTRIBUTING.MD](https://github.com/CSI-DJSCE/Git-For-Geeks2/blob/main/README.md) for more information and guidelines for contributing to Git For Geeks2.
+Please see [CONTRIBUTING.MD](https://github.com/CSI-DJSCE/Git-For-Geeks2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Git For Geeks2.
