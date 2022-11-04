@@ -155,8 +155,20 @@ const Users = {
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
-    },
+   },
   },
+
+  "Nadpi-Pinad": {
+    name: "Prasanna Nadkarni",
+    branch: "EXTC",
+    description: "Agnostic by Choice, Litterateur by Passion, Xenophile with an Adjectival Name!!!",
+    links : {
+      github: "https://github.com/Nadpi-Pinad",
+      instagram: "https://www.instagram.com/agnostic_litterateur756/?hl=en",
+      linkedin: "https://www.linkedin.com/in/prasanna-nadkarni-315a96255/",
+      portfolio: "",
+    }
+    },
   "BHAVYAPODDAR": {
     name: "Bhavya Poddar",
     branch: "IT",
@@ -311,9 +323,9 @@ const Users = {
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/niharn22",
-      instagram: "https://instagram.com/niharnandoskar",
-      linkedin: "https://www.linkedin.com/in/",
+      github: "https://github.com/Nadpi-Pinad",
+      instagram: "https://www.instagram.com/agnostic_litterateur756/?hl=en",
+      linkedin: "https://www.linkedin.com/in/prasanna-nadkarni-315a96255/",
       portfolio: "",
     },
   },
