@@ -174,7 +174,7 @@ const Users = {
     description:
       "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
     links: {
-      github: "      github: "https://github.com/wafflesblossom0703",
+      github:"https://github.com/wafflesblossom0703",
       instagram: "https://www.instagram.com/_kanikaa_18?r=nametag",
       linkedin: "",
       portfolio: "",
