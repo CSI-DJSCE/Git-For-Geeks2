@@ -641,6 +641,18 @@ const Users = {
       portfolio: "",
     },
   },
+  "Anusshkaha": {
+    name: "Anusshka Choudhary",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Anusshkaha",
+      instagram: "https://instagram.com/anusshka_chaudhary?igshid=1cnbzwatgvtlg",
+      linkedin: "https://www.linkedin.com/in/anusshka-chaudhary-129751221/",
+      portfolio: "",
+
+    },
+  },
 };
 "Ronakk4
     name: "Ronakk Javeri",
