@@ -317,6 +317,17 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
+    "Bhargavi1210": {
+    name: "Bhargavi Vaidya",
+    branch: "AI and DS",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Bhargavi1210",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+     },
+  },
   },
   "rockeyur": {
     name: "Keyur Parmar",
