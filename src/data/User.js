@@ -492,6 +492,17 @@ const Users = {
       portfolio: "",
     },
   },
+    "udayIT03": {
+    name: "Uday Baldha",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/udayIT03",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/uday-b-95b73322b",
+      portfolio: "",
+    },
+  },
   "ParvKaria": {
     name: "Parv Karia",
     branch: "CSE [IOT]",
@@ -729,8 +740,7 @@ const Users = {
       linkedin: "",
       portfolio: "",
     },
-};
-"Ronakk4
+    "Ronakk4
     name: "Ronakk Javeri",
     branch: "IT",
     description: "Exploring | Learning",
@@ -741,6 +751,7 @@ const Users = {
       portfolio: "",
     },
   },
+
 }
 
 export default Users;
