@@ -629,5 +629,17 @@ const Users = {
       portfolio: "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
     },
   },
+  "yashshahbhai": {
+    name: "YASH SHAH",
+    branch: "IT",
+    description:
+      "Expanding my knowledge in web development and trying to implement new things by exploring other fields",
+    links: {
+      github: "https://github.com/yashshahbhai",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
