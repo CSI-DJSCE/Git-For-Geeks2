@@ -297,6 +297,17 @@ const Users = {
       portfolio: "",
     },
   },
+   "Aditya-Dalvi": {
+    name: "Aditya Dalvi",
+    branch: "IOT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Aditya-Dalvi",
+      instagram: "https://www.instagram.com/aditya_dalvi_07/",
+      linkedin: "https://bit.ly/3CfK8CR",
+      portfolio: "",
+    },
+  }, 
   "IshaPatade": {
     name: "Isha Patade",
     branch: "IT",
@@ -439,6 +450,17 @@ const Users = {
       instagram: "https://www.instagram.com/soham.thatte/",
       linkedin: "https://www.linkedin.com/in/soham-thatte-11b4b3250/",
       portfolio: "Gitforgeeks",
+    },
+  },
+    "niharn22": {
+    name: "Nihar Nandoskar",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/niharn22",
+      instagram: "https://instagram.com/niharnandoskar",
+      linkedin: "https://www.linkedin.com/in/",
+      portfolio: "",
     },
   },
 };
