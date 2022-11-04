@@ -167,12 +167,15 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
-    "hello": {
+    "Bhargavi1210": {
     name: "Bhargavi Vaidya",
     branch: "AI and DS",
     description: "Exploring | Learning",
     links: {
       github: "https://github.com/Bhargavi1210",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
      },
   },
   },
