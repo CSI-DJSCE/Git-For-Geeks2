@@ -642,4 +642,17 @@ const Users = {
     },
   },
 };
+"Ronakk4
+    name: "Ronakk Javeri",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Ronakk4,
+      instagram: "https://www.instagram.com/Ronakk,javeri",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
+}
+
 export default Users;
