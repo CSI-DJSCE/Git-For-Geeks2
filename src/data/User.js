@@ -328,11 +328,21 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/shivani-patel-090671235/",
       portfolio: "",
     },
+    "tabss007": {
+    name: "Tanvi Bhide",
+    description: "Go with the flow",
+    links: {
+      github: "https://github.com/tabss007",
+      linkedin: "https://www.linkedin.com/in/temp10/",
+      instagram: "",
+      portfolio: "",
+    },
+  },
   },
   "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
-    description: "Exploring | Learning",
+    description: "Go with the flow",
     links: {
       github: "https://github.com/Nadpi-Pinad",
       instagram: "https://www.instagram.com/agnostic_litterateur756/?hl=en",
@@ -784,7 +794,6 @@ const Users = {
       instagram: "https://www.instagram.com/Ronakk,javeri",
       linkedin: "",
       portfolio: "",
-    },
   },
 };
 
