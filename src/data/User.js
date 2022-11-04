@@ -263,6 +263,15 @@ const Users = {
       portfolio: "",
     },
   },
+  "tanayajoshi": {
+    name: "Tanaya Joshi",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/tanayajoshi",
+      instagram: "https://www.instagram.com/invites/contact/?i=16yqg1wzr2n32&utm_content=2h7oe8s",
+      linkedin: "http://linkedin.com/in/tanaya-joshi-4b95b7230",
+}},
   "neminsheth": {
     name: "Nemin Sheth",
     branch: "IT",
@@ -325,6 +334,7 @@ const Users = {
       github: "https://github.com/Tanmay Raina",
       instagram: "https://www.instagram.com/tanmay_raina/?hl=en",
       linkedin: "https://www.linkedin.com/in/temp10/",
+
       portfolio: "",
     },
     "KelyMistry": {
@@ -653,6 +663,7 @@ const Users = {
 
     },
   },
+
   "ssharma2003": {
     name: "Shreya Sharma",
     branch: "IT",
@@ -661,6 +672,27 @@ const Users = {
       github: "https://github.com/ssharma2003",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+}},
+  "SKyde": {
+    name: "Vansh Jain",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/MadAra-UcHiHa8https://github.com/vanshJ314",
+      instagram: "https://www.instagram.com/vanshj03/?hl=en",
+      linkedin: "hhttps://www.linkedin.com/in/vansh-jain-400696235/",
+      portfolio: "",
+    },
+  },
+  "shahsamkit3124": {
+    name: "Samkit Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/shahsamkit3124",
+      instagram: "https://www.instagram.com/_samkit.shah_3124/",
+      linkedin: "https://www.linkedin.com/in/samkit-shah-752802216/",
+
       portfolio: "",
     },
   },
