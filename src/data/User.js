@@ -156,7 +156,17 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
-  },
+    "GajJoshi": {
+      name: "Gaj Joshi",
+      branch: "CS",
+      description: "enthusiastic | learning ;) ",
+      links: {
+        github: "https://github.com/gajjoshi",
+        instagram: "",
+        linkedin: "https://www.linkedin.com/in/gaj-joshi-877ba6228",
+        portfolio: "",
+      },
+    },
   "khushishah2443": {
     name: "Khushi Shah",
     branch: "IT",
