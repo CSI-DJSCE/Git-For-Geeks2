@@ -317,6 +317,17 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
+    "KelyMistry": {
+    name: "Kely Mistry",
+    branch: "IT",
+    description: "Go with the flow",
+    links: {
+      github: "https://github.com/KelyMistry",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+      }
+    },
     "Bhargavi1210": {
     name: "Bhargavi Vaidya",
     branch: "AI and DS",
@@ -516,6 +527,7 @@ const Users = {
       linkedin: "",
       portfolio: "",
     },
+
   },
     "rahul15rc": {
     name: "Rahul Chougule",
