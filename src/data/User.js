@@ -283,6 +283,17 @@ const Users = {
       portfolio: "",
     },
   },
+    "shivani2442": {
+    name: "ShivaniPatel",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/shivani2442",
+      instagram: "https://www.instagram.com/shivani_.24/",
+      linkedin: "https://www.linkedin.com/in/shivani-patel-090671235/",
+      portfolio: "",
+    },
+  }
   "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
