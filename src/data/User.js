@@ -517,5 +517,16 @@ const Users = {
       portfolio: "",
     },
   },
+    "rahul15rc": {
+    name: "Rahul Chougule",
+    branch: "IT",
+    description: "-_-",
+    links: {
+      github: "https://github.com/rahul15rc",
+      instagram: "https://www.instagram.com/rahulll._.15/",
+      linkedin: "https://www.linkedin.com/in/rahulchougule15/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
