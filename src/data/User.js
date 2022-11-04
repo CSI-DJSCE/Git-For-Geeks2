@@ -157,6 +157,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "khushishah2443": {
+    name: "Khushi Shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/khushishah2443",
+      instagram: "https://www.instagram.com/kkhushi_shah/?hl=en",
+      linkedin: "https://www.linkedin.com/in/khushi-shah-600744235/",
+      portfolio: "",
+    },
+  },
   "kriti.derasadi": {
     name: "Kriti Derasadi",
     branch: "IT",
