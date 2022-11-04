@@ -495,5 +495,27 @@ const Users = {
       portfolio: "Gitforgeeks",
     },
   },
+  "AdityaT27": {
+    name: "Aditya Thatte",
+    branch: "IT",
+    description: "Optimizing",
+    links: {
+      github: "https://github.com/Thatte-Aditya/Git-For-Geeks2",
+      instagram: "https://www.instagram.com/thatte_aditya/",
+      linkedin: "https://www.linkedin.com/in/aditya-thatte-b90675235/",
+      portfolio: "",
+    },
+  },
+  "Hydrosmasher": {
+    name: "Hrishikesh Karmalkar",
+    branch: "AI & DS",
+    description: "",
+    links: {
+      github: "",
+      instagram: "",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
