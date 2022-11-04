@@ -371,6 +371,16 @@ const Users = {
      },
   },
   },
+    "Viral0401": {
+    name: "Viral Dalal",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Viral0401",
+      instagram: "https://www.instagram.com/wtfviral_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/viral-dalal-424827251"
+    },
+  },
   "rockeyur": {
     name: "Keyur Parmar",
     branch: "IT",
