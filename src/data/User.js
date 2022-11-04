@@ -254,6 +254,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "Mustansir-M": {
+    name: "Mustansir Motiwala",
+    description: "Exploring | Learning | Enjoying",
+    links: {
+      github: "https://github.com/Mustansir-M",
+      instagram: "https://www.instagram.com/im_aadil_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+   }, 
   "SwayamMestry": {
     name: "Swayam Mestry",
     branch: "IoT",
@@ -309,8 +319,9 @@ const Users = {
   },
   "shivani2442": {
     name: "ShivaniPatel",
+
     branch: "IT",
-    description: "Exploring | Learning",
+    description: "Exploring | Learning | Enjoying",
     links: {
       github: "https://github.com/shivani2442",
       instagram: "https://www.instagram.com/shivani_.24/",
