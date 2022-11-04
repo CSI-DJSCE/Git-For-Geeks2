@@ -1,16 +1,4 @@
 const Users = {
-"yashshahbhai": {
-    name: "YASH SHAH",
-    branch: "IT",
-    description:
-      "Expanding my knowledge in web development and trying to implement new things by exploring other fields",
-    links: {
-      github: "https://github.com/yashshahbhai",
-      instagram: "",
-      linkedin: "",
-      portfolio: "",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -166,6 +154,18 @@ const Users = {
       github: "https://github.com/MadAra-UcHiHa89",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+  },
+  "yashshahbhai": {
+    name: "YASH SHAH",
+    branch: "IT",
+    description:
+      "Expanding my knowledge in web development and trying to implement new things by exploring other fields",
+    links: {
+      github: "https://github.com/yashshahbhai",
+      instagram: "",
+      linkedin: "",
       portfolio: "",
     },
   },
