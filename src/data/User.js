@@ -156,17 +156,18 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
-    "GajJoshi": {
-      name: "Gaj Joshi",
-      branch: "CS",
-      description: "enthusiastic | learning ;) ",
-      links: {
-        github: "https://github.com/gajjoshi",
-        instagram: "",
-        linkedin: "https://www.linkedin.com/in/gaj-joshi-877ba6228",
-        portfolio: "",
-      },
+  },
+  "GajJoshi": {
+    name: "Gaj Joshi",
+    branch: "CS",
+    description: "enthusiastic | learning ;) ",
+    links: {
+      github: "https://github.com/gajjoshi",
+      instagram: "",
+      linkedin: "https://www.linkedin.com/in/gaj-joshi-877ba6228",
+      portfolio: "",
     },
+  },
   "khushishah2443": {
     name: "Khushi Shah",
     branch: "IT",
@@ -186,8 +187,8 @@ const Users = {
       github: "https://github.com/RacHiT101",
       instagram: "https://www.instagram.com/galaraachit/?hl=en",
       linkedin: "https://www.linkedin.com/in/rachit-gala-ab968b235/",
-    }
-},
+    },
+  },
   "kriti.derasadi": {
     name: "Kriti Derasadi",
     branch: "IT",
@@ -271,7 +272,8 @@ const Users = {
       github: "https://github.com/tanayajoshi",
       instagram: "https://www.instagram.com/invites/contact/?i=16yqg1wzr2n32&utm_content=2h7oe8s",
       linkedin: "http://linkedin.com/in/tanaya-joshi-4b95b7230",
-}},
+    },
+  },
   "neminsheth": {
     name: "Nemin Sheth",
     branch: "IT",
@@ -283,7 +285,7 @@ const Users = {
       portfolio: "",
     },
   },
-    "shivani2442": {
+  "shivani2442": {
     name: "ShivaniPatel",
     branch: "IT",
     description: "Exploring | Learning",
@@ -293,7 +295,7 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/shivani-patel-090671235/",
       portfolio: "",
     },
-  }
+  },
   "niharn22": {
     name: "Nihar Nandoskar",
     branch: "IT",
@@ -348,7 +350,8 @@ const Users = {
 
       portfolio: "",
     },
-    "KelyMistry": {
+  },
+  "KelyMistry": {
     name: "Kely Mistry",
     branch: "IT",
     description: "Go with the flow",
@@ -357,9 +360,9 @@ const Users = {
       instagram: "",
       linkedin: "",
       portfolio: "",
-      }
     },
-    "Bhargavi1210": {
+  },
+  "Bhargavi1210": {
     name: "Bhargavi Vaidya",
     branch: "AI and DS",
     description: "Exploring | Learning",
@@ -368,17 +371,16 @@ const Users = {
       instagram: "",
       linkedin: "",
       portfolio: "",
-     },
+    },
   },
-  },
-    "Viral0401": {
+  "Viral0401": {
     name: "Viral Dalal",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
       github: "https://github.com/Viral0401",
       instagram: "https://www.instagram.com/wtfviral_/?hl=en",
-      linkedin: "https://www.linkedin.com/in/viral-dalal-424827251"
+      linkedin: "https://www.linkedin.com/in/viral-dalal-424827251",
     },
   },
   "rockeyur": {
@@ -502,7 +504,7 @@ const Users = {
       portfolio: "",
     },
   },
-    "udayIT03": {
+  "udayIT03": {
     name: "Uday Baldha",
     branch: "IT",
     description: "Exploring | Learning",
@@ -579,9 +581,8 @@ const Users = {
       linkedin: "",
       portfolio: "",
     },
-
   },
-    "rahul15rc": {
+  "rahul15rc": {
     name: "Rahul Chougule",
     branch: "IT",
     description: "-_-",
@@ -592,7 +593,7 @@ const Users = {
       portfolio: "",
     },
   },
-    "quintessentialdevrev": {
+  "quintessentialdevrev": {
     name: "Satvam Thakkar",
     branch: "DS",
     description: "The only thing that I know, is that I know nothing",
@@ -603,7 +604,7 @@ const Users = {
       portfolio: "",
     },
   },
-   "sarthakmahale123": {
+  "sarthakmahale123": {
     name: "Sarthak Mahale",
     branch: "IT",
     description: "Insert Chhapri bio here:",
@@ -617,8 +618,7 @@ const Users = {
   "PARZIVAL0609": {
     name: "Dhruv Shah",
     branch: "IT",
-    description:
-      "",
+    description: "",
     links: {
       github: "https://github.com/PARZIVAL0609",
       instagram: "https://instagram.com/parzival_069",
@@ -668,7 +668,8 @@ const Users = {
       github: "https://github.com/rakite28/",
       instagram: "https://www.instagram.com/rakite28/",
       linkedin: "https://www.linkedin.com/in/rachit-bhojani-b1a36b214",
-      portfolio: "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
+      portfolio:
+        "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
     },
   },
   "yashshahbhai": {
@@ -692,7 +693,6 @@ const Users = {
       instagram: "https://instagram.com/anusshka_chaudhary?igshid=1cnbzwatgvtlg",
       linkedin: "https://www.linkedin.com/in/anusshka-chaudhary-129751221/",
       portfolio: "",
-
     },
   },
 
@@ -704,7 +704,8 @@ const Users = {
       github: "https://github.com/ssharma2003",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
-}},
+    },
+  },
   "SKyde": {
     name: "Vansh Jain",
     branch: "IT",
@@ -716,26 +717,15 @@ const Users = {
       portfolio: "",
     },
   },
-  "shahsamkit3124": {
-    name: "Samkit Shah",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/shahsamkit3124",
-      instagram: "https://www.instagram.com/_samkit.shah_3124/",
-      linkedin: "https://www.linkedin.com/in/samkit-shah-752802216/",
-
-      portfolio: "",
-    },
-  },
   "priyal3251": {
     name: "Priyal Donda",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
       github: "https://github.com/priyal3251",
-      instagram: "https://www.instagram.com/priyalll_d/?hl=en"",
-      linkedin: "https://www.linkedin.com/in/priyal-donda-55648522a/edit/forms/contact-info/new/?profileFormEntryPoint=PROFILE_TOP_CARD_EDIT_FORM",
+      instagram: "https://www.instagram.com/priyalll_d/?hl=en",
+      linkedin:
+        "https://www.linkedin.com/in/priyal-donda-55648522a/edit/forms/contact-info/new/?profileFormEntryPoint=PROFILE_TOP_CARD_EDIT_FORM",
       portfolio: "",
     },
   },
@@ -745,23 +735,23 @@ const Users = {
     description:
       "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
     links: {
-      github:"https://github.com/wafflesblossom0703",
+      github: "https://github.com/wafflesblossom0703",
       instagram: "https://www.instagram.com/_kanikaa_18?r=nametag",
       linkedin: "",
       portfolio: "",
     },
-    "Ronakk4
+  },
+  "Ronakk4": {
     name: "Ronakk Javeri",
     branch: "IT",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/Ronakk4,
+      github: "https://github.com/Ronakk4",
       instagram: "https://www.instagram.com/Ronakk,javeri",
       linkedin: "",
       portfolio: "",
     },
   },
-
-}
+};
 
 export default Users;
