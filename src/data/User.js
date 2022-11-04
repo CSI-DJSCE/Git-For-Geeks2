@@ -607,5 +607,27 @@ const Users = {
       portfolio: "",
     },
   },
+  "jay-096": {
+    name: "Jay Mehta",
+    branch: "COMPS",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/jay-096",
+      instagram: "https://www.instagram.com/jayy_mehta09/",
+      linkedin: "https://www.linkedin.com/in/jay-mehta-b1a36b214/",
+      portfolio: "hi",
+    },
+  },
+  "rakite28": {
+    name: "Rachit Bhojani",
+    branch: "COMPS",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/rakite28/",
+      instagram: "https://www.instagram.com/rakite28/",
+      linkedin: "https://www.linkedin.com/in/rachit-bhojani-b1a36b214",
+      portfolio: "Love to code, design and develop interesting and world changing(hopefully) applications Contributing to Open-Source to learn from the community.",
+    },
+  },
 };
 export default Users;
