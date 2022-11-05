@@ -80,6 +80,18 @@ const Users = {
       portfolio: "",
     },
   },
+  "Vinit45Shah": {
+    name: "Vinit Shah",
+    branch: "IT",
+    description:
+      "I speak fluent sarcasm",
+    links: {
+      github: "https://github.com/Vinit45Shah",
+      instagram: "https://www.instagram.com/vinit.shah45/?hl=en",   
+      linkedin:"https://www.linkedin.com/in/vinit-shah-699826224",
+      portfolio: "",
+    },
+  },
   "Drishti9421": {
     name: "Drishti Dhingani",
     branch: "IT",
