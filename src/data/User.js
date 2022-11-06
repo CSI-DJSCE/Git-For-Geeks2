@@ -168,6 +168,28 @@ const Users = {
       portfolio: "",
     },
   },
+  "MickyCR7": {
+    name: "Meet Vora",
+    branch: "IT",
+    description: "Any one can do my job, but no one can be me!",
+    links: {
+      github: "https://github.com/MickyCR7",
+      instagram: "https://instagram.com/meeettt___?igshid=YmMyMTA2M2Y=",
+      linkedin: "https://www.linkedin.com/in/mnvora",
+      portfolio: "",
+    },
+  },
+  "Premdoshi": {
+    name: "Prem doshi",
+    branch: "IT",
+    description: "My name says it all",
+    links: {
+      github: "https://github.com/Premdoshi1208",
+      instagram: "https://instagram.com/premmmmmmm12?igshid=YmMyMTA2M2Y=",
+      linkedin: "https://www.linkedin.com/in/prem-doshi-482347224",
+      portfolio: "",
+    },
+  },
 
   "Nadpi-Pinad": {
     name: "Prasanna Nadkarni",
