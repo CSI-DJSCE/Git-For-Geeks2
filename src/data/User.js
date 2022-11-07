@@ -47,18 +47,6 @@ const Users = {
       portfolio: "https://github.com/technophile-04",
     },
   },
-  "leander006": {
-    name: "Leander D'silva",
-    branch: "IT",
-    description:
-      "Exploring blockchain and expanding my knowledge by learning innovative concepts",
-    links: {
-      github: "https://github.com/leander006",
-      instagram: "https://www.instagram.com/leander_dsilva06",
-      linkedin: "https://www.linkedin.com/in/leander06",
-      portfolio: "https://leanderdsilva.netlify.app",
-    },
-  },
   "jinish08": {
     name: "Jinish Shah",
     branch: "IT",
@@ -826,6 +814,18 @@ const Users = {
       instagram: "https://www.instagram.com/Ronakk,javeri",
       linkedin: "",
       portfolio: "",
+    },
+  },
+    "leander006": {
+    name: "Leander D'silva",
+    branch: "IT",
+    description:
+      "Exploring blockchain and expanding my knowledge by learning innovative concepts",
+    links: {
+      github: "https://github.com/leander006",
+      instagram: "https://www.instagram.com/leander_dsilva06",
+      linkedin: "https://www.linkedin.com/in/leander06",
+      portfolio: "https://leanderdsilva.netlify.app",
     },
   },
 };
