@@ -816,6 +816,18 @@ const Users = {
       portfolio: "",
     },
   },
+    "leander006": {
+    name: "Leander D'silva",
+    branch: "IT",
+    description:
+      "Exploring blockchain and expanding my knowledge by learning innovative concepts",
+    links: {
+      github: "https://github.com/leander006",
+      instagram: "https://www.instagram.com/leander_dsilva06",
+      linkedin: "https://www.linkedin.com/in/leander06",
+      portfolio: "https://leanderdsilva.netlify.app",
+    },
+  },
 };
 
 export default Users;
