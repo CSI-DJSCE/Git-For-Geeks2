@@ -35,6 +35,32 @@ Run :
 open `localhost:3000`  on browser.
 
 
+## Making your first PR 😎 
+1) Checkout [User.js](https://github.com/CSI-DJSCE/Git-For-Geeks2/blob/main/src/data/User.js) in `src/data` direcotry. 
+2) Start editing the [User.js](https://github.com/CSI-DJSCE/Git-For-Geeks2/blob/main/src/data/User.js) file and append your details similar to others details at the `User` object
+(make sure your details object key is your github username)
+![Screenshot 2022-11-13 at 11 50 09 AM](https://user-images.githubusercontent.com/80153681/201508724-3c46ece1-926f-415b-887b-64d888ecc7c4.jpg)
+3) Example object(fill in your details !)
+```js
+"Priyankaa2503": {
+    name: "Priyanka Ramachandran",
+    branch: "IT",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/Priyankaa2503",
+      instagram: "https://instagram.com/priyankaa__25",
+      linkedin: "https://www.linkedin.com/in/priyanka2503/",
+      portfolio: "",
+    },
+  },
+```
+4) Once done, commit your changes by clicking `commint changes` buttong at bottom
+![Screenshot 2022-11-13 at 11 56 02 AM](https://user-images.githubusercontent.com/80153681/201508903-ca7c3773-45f6-40f5-b35f-3d2e64ef80af.jpg)
+5) You are ready with your first PR 🔥
+
+**Make sure your checkout next section for detailed workflow !!** 
+
 ## Contributing to Git For Geeks2 🙌
 
 We welcome contributions to  Git For Geeks2!
