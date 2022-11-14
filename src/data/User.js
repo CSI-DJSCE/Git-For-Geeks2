@@ -828,6 +828,18 @@ const Users = {
       portfolio: "https://leanderdsilva.netlify.app",
     },
   },
+  "pratikwadke02": {
+    name: "Pratik Wadke",
+    branch: "IT",
+    description:
+      "Full Stack Developer and VCP Infotech Web at ACM",
+    links: {
+      github: "https://github.com/pratikwadke02",
+      instagram: "https://instagram.com/_praxxk_",
+      linkedin: "https://www.linkedin.com/in/pratik-wadke-904b5821b/",
+      portfolio: "",
+    },
+  },
 };
 
 export default Users;
