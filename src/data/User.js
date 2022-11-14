@@ -816,11 +816,10 @@ const Users = {
       portfolio: "",
     },
   },
-    "leander006": {
+  "leander006": {
     name: "Leander D'silva",
     branch: "IT",
-    description:
-      "Exploring blockchain and expanding my knowledge by learning innovative concepts",
+    description: "Exploring blockchain and expanding my knowledge by learning innovative concepts",
     links: {
       github: "https://github.com/leander006",
       instagram: "https://www.instagram.com/leander_dsilva06",
@@ -831,8 +830,7 @@ const Users = {
   "pratikwadke02": {
     name: "Pratik Wadke",
     branch: "IT",
-    description:
-      "Full Stack Developer and VCP Infotech Web at ACM",
+    description: "Full Stack Developer and VCP Infotech Web at ACM",
     links: {
       github: "https://github.com/pratikwadke02",
       instagram: "https://instagram.com/_praxxk_",
