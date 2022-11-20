@@ -838,6 +838,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "nihal5617": {
+    name: "Nihal Gupta",
+    branch: "IT",
+    description: "Full Stack Developer and App Developer",
+    links: {
+      github: "https://github.com/nihal5617",
+      instagram: "https://www.instagram.com/nihal_5617",
+      linkedin: "https://www.linkedin.com/in/nihal-gupta-424943208/",
+      portfolio: "https://profile.nihal.works/",
+    },
+  },
 };
 
 export default Users;
