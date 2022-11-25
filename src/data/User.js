@@ -1,16 +1,4 @@
 const Users = {
-  "0xajinkya":{
-    name: "Ajinkya Kahane",
-    branch: "C.E.",
-    description:
-      "I am AJINKYA, I have no limits.",
-    links: {
-      github: "https://github.com/0xajinkya",
-      instagram: "https://instagram.com/0xajinkya",
-      linkedin: "https://www.linkedin.com/in/0xajinkya",
-      portfolio: "https://portfolio-rust-mu-70.vercel.app/",
-    },
-  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -828,7 +816,7 @@ const Users = {
       portfolio: "",
     },
   },
-    "leander006": {
+  "leander006": {
     name: "Leander D'silva",
     branch: "IT",
     description:
@@ -840,6 +828,18 @@ const Users = {
       portfolio: "https://leanderdsilva.netlify.app",
     },
   },
+  "0xajinkya": {
+    name: "Ajinkya Kahane",
+    branch: "C.E.",
+    description:
+      "I am AJINKYA, I have no limits.",
+    links: {
+      github: "https://github.com/0xajinkya",
+      instagram: "https://instagram.com/0xajinkya",
+      linkedin: "https://www.linkedin.com/in/0xajinkya",
+      portfolio: "https://portfolio-rust-mu-70.vercel.app/",
+    },
+  }
 };
 
 export default Users;
