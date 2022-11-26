@@ -819,7 +819,8 @@ const Users = {
   "leander006": {
     name: "Leander D'silva",
     branch: "IT",
-    description: "Exploring blockchain and expanding my knowledge by learning innovative concepts",
+    description:
+      "Exploring blockchain and expanding my knowledge by learning innovative concepts",
     links: {
       github: "https://github.com/leander006",
       instagram: "https://www.instagram.com/leander_dsilva06",
@@ -827,28 +828,18 @@ const Users = {
       portfolio: "https://leanderdsilva.netlify.app",
     },
   },
-  "pratikwadke02": {
-    name: "Pratik Wadke",
-    branch: "IT",
-    description: "Full Stack Developer and VCP Infotech Web at ACM",
+  "0xajinkya": {
+    name: "Ajinkya Kahane",
+    branch: "C.E.",
+    description:
+      "I am AJINKYA, I have no limits.",
     links: {
-      github: "https://github.com/pratikwadke02",
-      instagram: "https://instagram.com/_praxxk_",
-      linkedin: "https://www.linkedin.com/in/pratik-wadke-904b5821b/",
-      portfolio: "",
+      github: "https://github.com/0xajinkya",
+      instagram: "https://instagram.com/0xajinkya",
+      linkedin: "https://www.linkedin.com/in/0xajinkya",
+      portfolio: "https://portfolio-rust-mu-70.vercel.app/",
     },
-  },
-  "nihal5617": {
-    name: "Nihal Gupta",
-    branch: "IT",
-    description: "Full Stack Developer and App Developer",
-    links: {
-      github: "https://github.com/nihal5617",
-      instagram: "https://www.instagram.com/nihal_5617",
-      linkedin: "https://www.linkedin.com/in/nihal-gupta-424943208/",
-      portfolio: "https://profile.nihal.works/",
-    },
-  },
+  }
 };
 
 export default Users;
